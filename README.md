@@ -1,7 +1,7 @@
 # Kevin-Lago
 
-[Dev.to](https://dev.to/kevinthelago)
-[LinkedIn](https://www.linkedin.com/in/foxolot/)
+- [Dev.to](https://dev.to/kevinthelago)
+- [LinkedIn](https://www.linkedin.com/in/foxolot/)
 
 - 👋 Hi, I’m Kevin-Lago!
 - 👀 I’m interested in become the best.
