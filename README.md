@@ -1,8 +1,5 @@
 # Kevin-Lago
 
-- [Dev.to](https://dev.to/kevinthelago)
-- [LinkedIn](https://www.linkedin.com/in/foxolot/)
-
 - 👋 Hi, I’m Kevin-Lago!
 - 👀 I’m interested in become the best.
 - 🌱 I’m currently learning GeoJson Standard, Python Plotly, Network+.
