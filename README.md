@@ -11,8 +11,8 @@
 ## GitHub Stats:
 
 <div style="display: flex;">
-    <img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
-    <img align="left" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=donut"/>
+    <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
+    <img alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=donut&theme=dark&title_color=00FFFF"/>
 </div>
 
 
