@@ -21,7 +21,7 @@
 
 ## Connect with Me!
 
-[TwitterIcon][TwitterLink]
+[[TwitterIcon]][TwitterLink]
 
 ---
 
