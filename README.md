@@ -6,13 +6,12 @@
 - 💞️ I’m looking to collaborate on .
 <!-- - 📫 How to reach me ~~redacted~~. -->
 
-## Current Projects:
-
 ## Guides
 
 ## GitHub Stats:
 
 <img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
+<img align="right" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&hide_progress=true"/>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
