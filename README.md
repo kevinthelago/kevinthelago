@@ -8,6 +8,8 @@
 
 ## Guides
 
+[<img align="left" alt="Java" width="32px" src=\[JavaIcon\]/>][youtube.com]
+
 ## GitHub Stats:
 
 <div style="display: flex;">
@@ -17,11 +19,15 @@
 
 <!-- Used Anuraghazra's GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 
-## Learned Languages and Tools:
+## Learned Languages and Tools
 
-## Learning Languages and Tools:
+## Learning Languages and Tools
+
+<!-- List of GitHub Icons https://github.com/jmnote/z-icons -->
 
 <!---
 Kevin-Lago/Kevin-Lago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[JavaIcon]: 
