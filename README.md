@@ -2,9 +2,23 @@
 
 - 👋 Hi, I’m Kevin-Lago!
 - 👀 I’m interested in become the best.
-- 🌱 I’m currently learning GeoJson Standard, Python Plotly, Network+.
-- 💞️ I’m looking to collaborate on peer to peer communication libraries/repositories.
-- 📫 How to reach me ~~redacted~~.
+- 🌱 I’m currently learning .
+- 💞️ I’m looking to collaborate on .
+<!-- - 📫 How to reach me ~~redacted~~. -->
+
+## Current Projects:
+
+## Guides
+
+## GitHub Stats:
+
+<img align="left" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago"/>
+
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+
+## Learned Languages and Tools:
+
+## Learning Languages and Tools:
 
 <!---
 Kevin-Lago/Kevin-Lago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
