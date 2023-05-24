@@ -13,8 +13,8 @@
 
 <!-- Used Anuraghazra's GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: grid; grid-template-columns: 1fr; width: 100%;">
-    <img style="grid-row-start: 1; grid-column-start: 1;" width="100%" height="226px" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
-    <img style="grid-row-start: 1; grid-column-start: 2;" width="100%" height="226px" style="object-fit: cover;" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
+    <img style="grid-row-start: 1; grid-column-start: 1;" height="226px" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
+    <img style="grid-row-start: 1; grid-column-start: 2;" height="226px" style="object-fit: cover;" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
 </div>
 
 ---
