@@ -29,7 +29,7 @@
 
 ## Languages and Tools
 
-<img align="left" alt="Java" width="32px" style="padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" width="32px" style="width: 32px; padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 ---
 <!---
