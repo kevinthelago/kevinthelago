@@ -13,8 +13,8 @@
 
 <!-- Used Anuraghazra's GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: flex; width: 100%;">
-    <img style="object-fit: cover;" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
-    <img style="object-fit: cover;" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
+    <img width="100%" height="226px" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
+    <img width="100%" height="226px" style="object-fit: cover;" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
 </div>
 
 ---
@@ -33,6 +33,11 @@
 <img align="left" alt="Spring" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="JavaScript" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" alt="React" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="React" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="React" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
+<img align="left" alt="React" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+          
+          
           
           
 ---
