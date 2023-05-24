@@ -13,8 +13,8 @@
 
 <!-- Used Anuraghazra's GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: flex; width: 100%;">
-    <img alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
-    <img alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
+    <img style="object-fit: cover;" alt="Kevin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kevin-Lago&show_icons=true&theme=dark&title_color=00FFFF"/>
+    <img style="object-fit: cover;" alt="Kevin's Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Lago&layout=demo&theme=dark&title_color=00FFFF"/>
 </div>
 
 ---
