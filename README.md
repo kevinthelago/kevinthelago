@@ -9,7 +9,7 @@
 
 ---
 
-## GitHub Stats:
+## GitHub Stats
 
 <!-- Used Anuraghazra's GitHub Stats: https://github.com/anuraghazra/github-readme-stats -->
 <div style="display: flex; width: 100%;">
@@ -19,20 +19,23 @@
 
 ---
 
-## Connect with Me!
+## Follow Me!
 
-[[TwitterIcon]][TwitterLink]
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+          
 
 ---
 
-## Learned Languages and Tools
+## Languages and Tools
 
-## Learning Languages and Tools
-
+<img align="left" alt="Java" width="32px" style="padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+          
+---
 <!---
 Kevin-Lago/Kevin-Lago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-[TwitterIcon]: <img align="left" alt="Kevin's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
-[TwitterLink]: https://twitter.com/kevinthelago
+<!-- [TwitterIcon]: <img align="left" alt="Kevin's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+[TwitterLink]: https://twitter.com/kevinthelago -->
