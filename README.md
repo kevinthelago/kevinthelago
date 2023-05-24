@@ -22,14 +22,14 @@
 ## Follow Me!
 
 
-<img align="left" alt="Twitter" style="width: 32px; padding: 8px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+<img align="left" alt="Twitter" style="width: 32px; margin: 8px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
           
 
 ---
 
 ## Languages and Tools
 
-<img align="left" alt="Java" style="width: 32px; padding: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="Java" style="width: 32px; margin: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 ---
 <!---
