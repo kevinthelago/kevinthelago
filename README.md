@@ -1,6 +1,6 @@
 # Welcome!
 
-- My name is Kevin Lago
+- My name is Kevin! :D
 
 ---
 
