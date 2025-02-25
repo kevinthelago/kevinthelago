@@ -8,6 +8,8 @@ My github account is currently a mess.. I'm now officially working on organizing
 
 ## Languages and Tools
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinthelago&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+
 <img align="left" alt="Java" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="JavaScript" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
