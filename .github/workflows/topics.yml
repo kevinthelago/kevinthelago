@@ -1,8 +1,12 @@
 name: Run Topics Python
 
 on:
-  schedule:
-    - cron: "0 * * * *"
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  # schedule:
+  #   - cron: "0 * * * *"
 
   workflow_dispatch:
 
