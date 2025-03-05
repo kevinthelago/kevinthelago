@@ -7,9 +7,6 @@ print(os.listdir(ROOT_DIR))
 README = ROOT_DIR + "/README.md"
 print(f"README: {README}")
 
-with open(README, 'r') as README:
-    print(README)
-
 
 with open(README, 'w') as readme:
     readme.write("test write")
