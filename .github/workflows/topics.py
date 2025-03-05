@@ -6,7 +6,7 @@ print(f"Root Directory: {ROOT_DIR}")
 README = ROOT_DIR + "/readme.md"
 
 
-with open(README, w) as readme:
+with open(README, 'w') as readme:
     readme.write("test write")
 
 if __name__ == '__main__':
