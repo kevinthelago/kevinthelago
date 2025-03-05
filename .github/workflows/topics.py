@@ -4,6 +4,10 @@ import requests
 ROOT_DIR = os.getcwd()
 print(f"Root Directory: {ROOT_DIR}")
 README = ROOT_DIR + "/readme.md"
+print(f"README: {README}")
+
+with open(README, 'r') as README:
+    print(README)
 
 
 with open(README, 'w') as readme:
