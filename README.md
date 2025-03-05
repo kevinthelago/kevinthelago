@@ -6,12 +6,6 @@ My github account is currently a mess.. I'm now officially working on organizing
 
 ---
 
-## Active Personal Projects
-
-![Artist Portfolio](https://github.com/kevinthelago/artist_portfolio)
-
----
-
 ## Languages and Tools
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinthelago&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
