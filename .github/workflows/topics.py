@@ -1,7 +1,7 @@
 import os
 import requests
 
-ROOT_DIR = os.getcws()
+ROOT_DIR = os.getcwd()
 print(f"Root Directory: {ROOT_DIR}")
 README = ROOT_DIR + "/readme.md"
 
