@@ -8,6 +8,7 @@ README = ROOT_DIR + "/readme.md"
 
 with open(README, 'w') as readme:
     readme.write("test write")
+    readme.close()
 
 if __name__ == '__main__':
     print("requests test")
