@@ -10,6 +10,10 @@ print(f"README: {README}")
 
 with open(README, 'w') as readme:
     readme.write("test write")
+
+    for line in readme:
+        print(line)
+        
     readme.close()
 
 if __name__ == '__main__':
