@@ -5,18 +5,4 @@
 My github account is currently a mess.. I'm now officially working on organizing my projects, creating a portfolio and hosting the projects that were actually completed.
 
 ---
-
-## Languages and Tools
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinthelago&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-
-<img align="left" alt="Java" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="Spring" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="JavaScript" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Python" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Arduino" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
-<img align="left" alt="RaspberryPi" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
-<img align="left" alt="Bash" style="width: 32px; padding-right: 8px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-
----
+<img align="left" alt="github-actions" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/github-actions.svg" /><img align="left" alt="react-hooks" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/react-hooks.svg" /><img align="left" alt="css" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/css.svg" /><img align="left" alt="react" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/react.svg" /><img align="left" alt="react-router" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/react-router.svg" /><img align="left" alt="github-config" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/github-config.svg" /><img align="left" alt="python" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/python.svg" /><img align="left" alt="config" style="width: 32px; padding-right: 8px;" src="https://github.com/simple-icons/simple-icons/tree/develop/icons/config.svg" />
