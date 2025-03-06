@@ -8,6 +8,7 @@ LANGUAGES_AND_TOOLS = WORKING_DIR + "/LanguagesAndTools.md"
 
 with open(LANGUAGES_AND_TOOLS, 'w') as languages_and_tools:
     topics = set()
+    languages = set()
     i = 0
 
     while True:
@@ -21,23 +22,27 @@ with open(LANGUAGES_AND_TOOLS, 'w') as languages_and_tools:
         for repo in data:
             name = repo.get('name')
             url = repo.get('url')
+            languages_url = repo.get('languages_url')
+
+            repo_languages = requests.get(languages_url).json()
+            unique_languages.update(repo_languages)
             topics.update(repo.get('topics'))
 
-    for topic in topics:
+    for language in languages:
         languages_and_tools.write(
-            f'<img align="left" alt="{topic}" style="width: 32px; padding-right: 8px;" src="https://skillicons.dev/icons?i={topic}" />'
+            f'<img align="left" alt="{topic}" style="width: 32px; padding-right: 8px;" src="https://skillicons.dev/icons?i={language}" />'
         )
     languages_and_tools.close()
 
 
-with open(README, 'w') as readme:
-    with open(INTRODUCTION, 'r') as introduction:
-        for line in introduction:
-            readme.write(line)
-        introduction.close()
+# with open(README, 'w') as readme:
+#     with open(INTRODUCTION, 'r') as introduction:
+#         for line in introduction:
+#             readme.write(line)
+#         introduction.close()
 
-    with open(LANGUAGES_AND_TOOLS, 'r') as languages_and_tools:
-        for line in languages_and_tools:
-            readme.write(line)
-        languages_and_tools.close()
-    readme.close()
+#     with open(LANGUAGES_AND_TOOLS, 'r') as languages_and_tools:
+#         for line in languages_and_tools:
+#             readme.write(line)
+#         languages_and_tools.close()
+#     readme.close()
