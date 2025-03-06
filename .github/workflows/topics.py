@@ -25,7 +25,7 @@ with open(LANGUAGES_AND_TOOLS, 'w') as languages_and_tools:
             languages_url = repo.get('languages_url')
 
             repo_languages = requests.get(languages_url).json()
-            unique_languages.update(repo_languages)
+            languages.update(repo_languages)
             topics.update(repo.get('topics'))
 
     for language in languages:
