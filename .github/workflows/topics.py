@@ -35,14 +35,14 @@ with open(LANGUAGES_AND_TOOLS, 'w') as languages_and_tools:
     languages_and_tools.close()
 
 
-# with open(README, 'w') as readme:
-#     with open(INTRODUCTION, 'r') as introduction:
-#         for line in introduction:
-#             readme.write(line)
-#         introduction.close()
+with open(README, 'w') as readme:
+    with open(INTRODUCTION, 'r') as introduction:
+        for line in introduction:
+            readme.write(line)
+        introduction.close()
 
-#     with open(LANGUAGES_AND_TOOLS, 'r') as languages_and_tools:
-#         for line in languages_and_tools:
-#             readme.write(line)
-#         languages_and_tools.close()
-#     readme.close()
+    with open(LANGUAGES_AND_TOOLS, 'r') as languages_and_tools:
+        for line in languages_and_tools:
+            readme.write(line)
+        languages_and_tools.close()
+    readme.close()
