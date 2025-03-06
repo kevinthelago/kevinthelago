@@ -25,7 +25,7 @@ with open(LANGUAGES_AND_TOOLS, 'w') as languages_and_tools:
 
     for topic in topics:
         languages_and_tools.write(
-            f'<img align="left" alt="{topic}" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/npm/simple-icons@v14/icons/{topic}.svg" />'
+            f'<img align="left" alt="{topic}" style="width: 32px; padding-right: 8px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/{topic}/{topic}-original.svg" />'
         )
     languages_and_tools.close()
 
