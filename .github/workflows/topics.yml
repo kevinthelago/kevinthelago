@@ -19,3 +19,10 @@ jobs:
 
       - name: Runs python script
         run: python ./.github/workflows/topics.py
+            - name: switching from HTTPS to SSH
+      - name: Stage Changes
+        run: git add .
+      - name: Commit Changes
+        run: git commit -m "Auto Updating Markdown"
+      - name: Push Changes
+        run: git push origin HEAD:master
