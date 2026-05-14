@@ -1,1 +1,51 @@
-[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+        
+            <svg
+                height="540"
+                width="960"
+                viewBox="0 0 960 540"
+                xmlns="http://www.w3.org/2000/svg"
+                role="img"
+            >
+                <style>
+                    
+        .account-summary-text { font-family: arial; text-align: center;}
+    
+                </style>
+                <g>
+                    
+        <svg>
+            <defs>
+                <linearGradient id="cherry-blossom-leaf-gradient" x1="0" x2="0" y1="0" y2="1">
+                    <stop offset="0%" stop-color="pink" />
+                    <stop offset="100%" stop-color="white" />
+                </linearGradient>
+            </defs>
+            <g>
+                540
+            </g>
+        </svg>
+    
+                </g>
+                <g>
+                    
+            <svg
+                height="540"
+                width="960"
+                viewBox="0 0 960 540"
+            >
+                
+                            <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
+                                 Please provide the list of GitHub repositories! I need the actual repository names or links to
+                            </text>
+                        ,
+                            <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
+                                analyze them and write the summary. Once you provide them, I'll be happy to create the concise
+                            </text>
+                        
+            </svg>
+        
+                </g>
+            </svg>
+        
+    
