@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Oh, this dev is seriously awesome – a true tech adventurer who's clearly excited about *everything*!
+                                 Whoa, this dev is a total powerhouse, effortlessly jumping between Python scripting for everything
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                They effortlessly jump between building robust Java Spring backends and slick React UIs, but also
+                                from IoT and Discord bots to audio processing, while also crafting super slick React UIs and robust
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                dive deep into Python for everything from console games to hardware control with Arduino and even
+                                Java/Spring backends! They've got this awesome knack for building practical tools, integrating with
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                AI-powered tools. It's clear they love tackling a super diverse range of projects, whether it's
+                                gaming platforms like Twitch, and even exploring cool new frontiers with Generative AI, making them a
                             </text>
                         
             </svg>
