@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is an absolute tech powerhouse, effortlessly swinging between building slick React
+                                 Wow, this developer is a total powerhouse, jumping between Python, JavaScript with React and Node,
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                UIs, robust Java Spring backends, and even diving deep into Python for everything from ASCII games to
+                                and Java with Spring to build practically anything! They're clearly stoked about crafting everything
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                generative AI tools! It's clear they love to connect systems, explore new tech like Electron for
+                                from cool web apps and powerful backend integrations to handy developer tools, fun desktop utilities,
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                desktop apps and Arduino for hardware, and just build *all the things* from web to embedded – talk
+                                and even dabbling in hardware and generative AI. It's awesome to see someone so enthusiastic about
                             </text>
                         
             </svg>
