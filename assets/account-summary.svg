@@ -36,11 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Please provide the list of GitHub repositories! I need the actual repository names or links to
+                                 Whoa, this dev is an absolute powerhouse, fearlessly jumping between Python, Java Spring, and React
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                analyze them and write the summary. Once you provide them, I'll be happy to create the concise
+                                to build everything from full-stack web apps and desktop tools to clever hardware projects and even
+                            </text>
+                        ,
+                            <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
+                                generative AI integrations! They clearly love tackling incredibly diverse challenges, whether it's
+                            </text>
+                        ,
+                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
+                                crafting clever integrations, making musical ear trainers, or building their own custom dev
+                            </text>
+                        ,
+                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
+                                utilities, showcasing a fantastic knack for bringing any idea to life across so many different
                             </text>
                         
             </svg>
