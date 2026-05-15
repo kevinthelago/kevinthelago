@@ -36,23 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is a true polyglot wizard, constantly jumping between building slick UIs with React
+                                 Whoa, this dev is a total tech-stack adventurer, effortlessly juggling Python for everything from
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                and JavaScript, crafting robust backend services with Java Spring, and even whipping up some awesome
+                                bots and hardware control to Java with Spring for robust backends, and absolutely crushing it with
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                Python tools for everything from hardware control to Discord bots! They clearly love tackling a huge
+                                React and Node.js for slick web apps! They're clearly stoked about building a super diverse range of
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                range of projects, whether it's integrating with platforms like Twitch and Slack, diving into
-                            </text>
-                        ,
-                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                embedded systems with Arduino, or exploring generative AI and desktop apps with Electron. It's
+                                stuff, from clever desktop tools and cool gaming integrations to hands-on Arduino projects, showing
                             </text>
                         
             </svg>
