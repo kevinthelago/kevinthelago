@@ -36,15 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is an absolute powerhouse, diving deep into everything from Python-powered ASCII
+                                 Oh wow, this dev is a seriously awesome full-stack explorer, effortlessly jumping between Python for
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                chess and Discord bots to slick React UIs for portfolios! They're also rocking robust backend
+                                everything from console games to hardware control, Java/Spring for robust backend magic, and React
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                integrations with Java Spring and even dipping into hardware with Arduino, showing off a seriously
+                                for building some super slick web UIs! They're clearly stoked about tackling a huge range of
+                            </text>
+                        ,
+                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
+                                projects, whether it's creating generative AI tools, building ear trainers, or diving into embedded
                             </text>
                         
             </svg>
