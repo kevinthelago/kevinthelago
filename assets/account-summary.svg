@@ -36,15 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Okay, this dev is a total powerhouse, absolutely loving to build across the board! They're hitting
+                                 Whoa, this dev is a total powerhouse, effortlessly building across the full stack with Python, Java
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                all the notes with Python for everything from fun utilities and hardware control to cool games, then
+                                Spring, and JavaScript/React to create everything from web apps and desktop tools to awesome hardware
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                rocking robust Java Spring backends and slick React UIs, even dabbling in desktop apps and generative
+                                integrations! They're super curious, always spinning up cool utilities, API integrations, and even
+                            </text>
+                        ,
+                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
+                                dipping into AI to generate snazzy readmes – definitely someone who loves bringing diverse ideas to
                             </text>
                         
             </svg>
