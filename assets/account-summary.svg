@@ -36,23 +36,15 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this developer is an absolute powerhouse, literally touching every corner of the dev world!
+                                 Whoa, this dev is a total powerhouse, rocking everything from Python for awesome bots, hardware
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                They're incredibly versatile, bouncing from robust Java Spring backends and slick React UIs to
+                                projects, and audio tools to Java Spring for robust backend integrations! They're clearly passionate
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                building useful Python utilities, Discord bots, and even dipping their toes into hardware with
-                            </text>
-                        ,
-                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                Arduino projects. Their vibe is super experimental and practical, always ready to tackle anything
-                            </text>
-                        ,
-                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                from AI-powered README generators to ear-training desktop apps, proving they're genuinely hyped about
+                                about building a huge variety of things, whether it's sleek React UIs, handy desktop apps, or even
                             </text>
                         
             </svg>
