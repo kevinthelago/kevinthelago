@@ -36,19 +36,15 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Alright, this developer is clearly a coding chameleon, effortlessly jumping between Python, Java
+                                 Whoa, this dev is an absolute powerhouse, diving deep into everything from Python-powered ASCII
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                with Spring, and the full JavaScript/React ecosystem! They're absolutely stoked about bringing all
+                                chess and Discord bots to slick React UIs for portfolios! They're also rocking robust backend
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                sorts of ideas to life, whether it's building slick full-stack web apps, clever backend integrations,
-                            </text>
-                        ,
-                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                hands-on hardware projects, or even diving into desktop tools and audio processing – talk about a
+                                integrations with Java Spring and even dipping into hardware with Arduino, showing off a seriously
                             </text>
                         
             </svg>
