@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is a total tech-stack adventurer, effortlessly juggling Python for everything from
+                                 Wow, this developer is an absolute powerhouse, effortlessly jumping between Python for super cool
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                bots and hardware control to Java with Spring for robust backends, and absolutely crushing it with
+                                projects like a console chess game and LED controllers, and Java Spring for robust backend
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                React and Node.js for slick web apps! They're clearly stoked about building a super diverse range of
+                                integrations! They've also got a real knack for building sleek React UIs and even desktop apps with
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                stuff, from clever desktop tools and cool gaming integrations to hands-on Arduino projects, showing
+                                Electron, showing off their incredible range and passion for crafting practical, full-stack solutions
                             </text>
                         
             </svg>
