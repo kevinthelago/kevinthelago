@@ -36,19 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Wow, this developer is an absolute powerhouse, effortlessly jumping between Python for super cool
+                                 Whoa, this developer is an absolute powerhouse, literally touching every corner of the dev world!
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                projects like a console chess game and LED controllers, and Java Spring for robust backend
+                                They're incredibly versatile, bouncing from robust Java Spring backends and slick React UIs to
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                integrations! They've also got a real knack for building sleek React UIs and even desktop apps with
+                                building useful Python utilities, Discord bots, and even dipping their toes into hardware with
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                Electron, showing off their incredible range and passion for crafting practical, full-stack solutions
+                                Arduino projects. Their vibe is super experimental and practical, always ready to tackle anything
+                            </text>
+                        ,
+                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
+                                from AI-powered README generators to ear-training desktop apps, proving they're genuinely hyped about
                             </text>
                         
             </svg>
