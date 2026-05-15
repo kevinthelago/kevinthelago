@@ -36,27 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Okay, this dev is clearly super excited about building *all* the things, hopping effortlessly from
+                                 Whoa, this dev is a true polyglot wizard, constantly jumping between building slick UIs with React
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                robust Java and Spring backend services to crafting beautiful React UIs! They're definitely someone
+                                and JavaScript, crafting robust backend services with Java Spring, and even whipping up some awesome
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                who loves diving into diverse projects, whether it's getting hands-on with Arduino, whipping up
+                                Python tools for everything from hardware control to Discord bots! They clearly love tackling a huge
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                Python tools like a custom logger or a console chess game, or even leveraging AI for a snazzy GitHub
+                                range of projects, whether it's integrating with platforms like Twitch and Slack, diving into
                             </text>
                         ,
                             <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                README generator! They've got a fantastic blend of practical problem-solving and pure curiosity,
-                            </text>
-                        ,
-                            <text x="480" y="168" text-anchor='middle' class='account-summary-text' height="100%">
-                                exploring everything from desktop apps with Electron to various integrations and even audio
+                                embedded systems with Arduino, or exploring generative AI and desktop apps with Electron. It's
                             </text>
                         
             </svg>
