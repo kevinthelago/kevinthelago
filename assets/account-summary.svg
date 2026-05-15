@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Woah, this dev is seriously awesome – a true jack-of-all-trades who just *loves* building! They're
+                                 Wow, this developer is an absolute powerhouse, rocking a serious full-stack game with a fantastic
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                rocking a full-stack game, jamming out on everything from Python for hardware control, bots, and cool
+                                blend of Java Spring, Python, and React! They clearly love diving into diverse projects, building
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                utilities to slinging React for web UIs and Java Spring for robust backend integrations. It's clear
+                                everything from slick web UIs and robust backend integrations to clever desktop utilities and even
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                they're super passionate about bringing ideas to life across web, desktop, and even physical devices,
+                                dabbling in cool hardware like Arduino and LED controllers. It's super clear they're incredibly
                             </text>
                         
             </svg>
