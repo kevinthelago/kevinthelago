@@ -36,23 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Alright, this dev is seriously crushing it across the stack! They effortlessly jump between building
+                                 Whoa, this developer is a true multi-stack explorer, absolutely crushing it with Python for
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                robust Java Spring backend services and slick React frontends, while also getting hands-on with
+                                everything from ASCII chess games to Flask-controlled LEDs, while also building slick React UIs and
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                Python for everything from cool hardware controllers and Discord bots to audio processing and
+                                robust Java Spring integrations! They've got a fantastic knack for creating super diverse projects,
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                generating awesome developer tools. It's clear they love diving into integrations, exploring
-                            </text>
-                        ,
-                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                different domains like gaming and music, and just generally bringing awesome ideas to life with a
+                                from handy desktop ear trainers to cool GitHub README generators, clearly showing a passion for both
                             </text>
                         
             </svg>
