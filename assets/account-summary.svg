@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Oh wow, this developer is an absolute tech polyglot, effortlessly jumping between crafting awesome
+                                 Okay, get this – this dev is seriously awesome, jumping into everything from crafting super slick
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                React UIs and robust Java Spring backends to diving deep into Python for everything from controlling
+                                React UIs and building robust Java Spring backends to getting hands-on with hardware via Arduino and
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                LEDs to generating fancy GitHub READMEs with AI! They clearly get a kick out of tackling diverse
+                                Python! They've got this amazing knack for creating genuinely useful tools and fun applications
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                challenges, whether it's building useful utilities, integrating complex systems, or just whipping up
+                                across the board, always bringing that full-stack, 'let's just build it' energy to their projects,
                             </text>
                         
             </svg>
