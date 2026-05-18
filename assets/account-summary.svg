@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Okay, get this – this dev is seriously awesome, jumping into everything from crafting super slick
+                                 Whoa, this dev is a total powerhouse, effortlessly bouncing between crafting slick React UIs and
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                React UIs and building robust Java Spring backends to getting hands-on with hardware via Arduino and
+                                robust Java/Spring services, but really goes wild with Python for everything from hardware control
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                Python! They've got this amazing knack for creating genuinely useful tools and fun applications
+                                and Discord bots to game development! They're clearly all about building practical tools, integrating
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                across the board, always bringing that full-stack, 'let's just build it' energy to their projects,
+                                cool services like Twitch and Slack, and aren't afraid to dive into desktop apps, generative AI, or
                             </text>
                         
             </svg>
