@@ -36,19 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is a total powerhouse, effortlessly bouncing between crafting slick React UIs and
+                                 Alright, this dev is seriously crushing it across the stack! They effortlessly jump between building
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                robust Java/Spring services, but really goes wild with Python for everything from hardware control
+                                robust Java Spring backend services and slick React frontends, while also getting hands-on with
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                and Discord bots to game development! They're clearly all about building practical tools, integrating
+                                Python for everything from cool hardware controllers and Discord bots to audio processing and
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                cool services like Twitch and Slack, and aren't afraid to dive into desktop apps, generative AI, or
+                                generating awesome developer tools. It's clear they love diving into integrations, exploring
+                            </text>
+                        ,
+                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
+                                different domains like gaming and music, and just generally bringing awesome ideas to life with a
                             </text>
                         
             </svg>
