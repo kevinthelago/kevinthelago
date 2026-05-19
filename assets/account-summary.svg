@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Woah, this developer is a total powerhouse, practically a full-stack polyglot who bounces
+                                 Holy moly, this dev is absolutely killing it with a seriously impressive range! They're a true
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                effortlessly between Python, Java with Spring, and the entire JavaScript/React/Node ecosystem!
+                                full-stack wizard, comfortably jumping from slick React frontends and robust Java Spring backends to
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                They're clearly stoked about building everything from robust backend integrations and slick web UIs
+                                hands-on Python hardware projects and even neat Electron desktop apps. It's clear they love diving
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                to handy desktop tools, hardware controllers, and even experimenting with generative AI. It's awesome
+                                into anything that solves a problem or just sounds fun, whether it's building clever utilities,
                             </text>
                         
             </svg>
