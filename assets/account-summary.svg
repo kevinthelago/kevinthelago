@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Holy moly, this dev is absolutely killing it with a seriously impressive range! They're a true
+                                 Woah, this developer is an absolute powerhouse, fluent in everything from Python and JavaScript with
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                full-stack wizard, comfortably jumping from slick React frontends and robust Java Spring backends to
+                                React and Node.js, to enterprise Java with Spring Boot, and even a bit of C++ and Arduino! They
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                hands-on Python hardware projects and even neat Electron desktop apps. It's clear they love diving
+                                clearly love to build, tackling everything from full-stack web apps and handy dev tools to fun
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                into anything that solves a problem or just sounds fun, whether it's building clever utilities,
+                                Discord bots, hardware controllers, and even cool desktop audio trainers. It's awesome how they're
                             </text>
                         
             </svg>
