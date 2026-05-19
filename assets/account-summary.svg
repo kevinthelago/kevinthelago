@@ -36,19 +36,19 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Oh man, this developer is an absolute powerhouse, always bouncing between awesome projects built
+                                 Woah, this developer is a total powerhouse, practically a full-stack polyglot who bounces
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                with Python, Java/Spring, and React, plus a sprinkle of C++ and Arduino! They clearly love diving
+                                effortlessly between Python, Java with Spring, and the entire JavaScript/React/Node ecosystem!
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                into everything from slick web UIs and robust backend integrations to fun desktop apps, hardware
+                                They're clearly stoked about building everything from robust backend integrations and slick web UIs
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                control, and even creative AI-powered dev tools, showcasing a truly versatile and endlessly curious
+                                to handy desktop tools, hardware controllers, and even experimenting with generative AI. It's awesome
                             </text>
                         
             </svg>
