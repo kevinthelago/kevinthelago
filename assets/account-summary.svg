@@ -36,19 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Wow, this dev is a true polyglot, absolutely crushing it across the Python, Java/Spring, and
+                                 Oh wow, this dev is a total powerhouse, jumping from crafting slick React frontends and robust
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                JavaScript/React/Node.js stack! They clearly get hyped about building everything from sleek web UIs
+                                Java/Spring backends to getting hands-on with Arduino and even building desktop apps with Electron!
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                and robust backend integrations to desktop apps, quirky hardware projects, and even clever dev tools
+                                They're definitely someone who loves diving deep into practical integrations and cool utilities,
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                or games. It's awesome to see such a versatile builder who's always diving into diverse and exciting
+                                whether it's powering an AI-driven README generator or building Python bots and even classic ASCII
+                            </text>
+                        ,
+                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
+                                games. Seriously, they're a full-stack, full-fun kind of developer, always exploring new tech and
                             </text>
                         
             </svg>
