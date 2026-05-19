@@ -36,15 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Whoa, this dev is seriously everywhere, rocking full-stack web with React and Java Spring, diving
+                                 Oh, this dev is clearly someone who loves to explore! They're rocking a seriously versatile stack,
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                into cool hardware projects with Arduino and Python, and even whipping up desktop apps with Electron!
+                                jumping seamlessly between Python for cool console games and utility scripts, JavaScript with React
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                They clearly love tackling a super diverse range of challenges, from generative AI utilities to
+                                for slick web UIs and desktop apps, and Java with Spring for robust backend services and
+                            </text>
+                        ,
+                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
+                                integrations. It's awesome how they build everything from useful tools like a markdown generator and
+                            </text>
+                        ,
+                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
+                                custom loggers to fun hardware projects and even audio processing, showing off a super creative and
                             </text>
                         
             </svg>
