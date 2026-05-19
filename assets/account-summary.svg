@@ -36,23 +36,23 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Oh, this dev is clearly someone who loves to explore! They're rocking a seriously versatile stack,
+                                 Woah, this developer is an absolute tech chameleon, building across the entire stack and beyond!
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                jumping seamlessly between Python for cool console games and utility scripts, JavaScript with React
+                                They're a true maestro, effortlessly hopping between crafting slick React UIs, robust Java Spring
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                for slick web UIs and desktop apps, and Java with Spring for robust backend services and
+                                backends, and a whole arsenal of Python projects, covering everything from powerful Discord bots to
                             </text>
                         ,
                             <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                integrations. It's awesome how they build everything from useful tools like a markdown generator and
+                                cool hardware integrations and insightful data visualization. It's clear they love diving into
                             </text>
                         ,
                             <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                custom loggers to fun hardware projects and even audio processing, showing off a super creative and
+                                diverse domains, from music and gaming integrations to AI experiments, always eager to build
                             </text>
                         
             </svg>
