@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer is a full-stack engineer with extensive experience across Java, Kotlin, JavaScript, and TypeScript, specializing in Spring Boot microservices and modern frontend frameworks like React and Vue. Their diverse projects also include embedded systems with Arduino, generative AI applications using Google Gemini, and Python-based CLI tools for various domains including audio processing and game development.
+This developer excels at crafting robust backend solutions with Java and Kotlin, particularly leveraging Spring Boot and microservices architectures. They also demonstrate proficiency in modern frontend development using JavaScript and TypeScript across React, React Native, and Vue for web and mobile applications. Their diverse portfolio further showcases experience in embedded systems, generative AI, and various application domains like e-learning and gaming.
 <!-- summary-end -->
 
 <!-- rating-start -->
