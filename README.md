@@ -5,7 +5,7 @@
 <img src="./assets/tech-chart.svg" width="600" height="600" alt="Tech chart" />
 
 <!-- summary-start -->
-This developer specializes in full-stack application development, building robust backends with Java, Spring, and Kotlin, while crafting interactive user interfaces using React, Vue, and TypeScript. They demonstrate a broad technical range, engaging with AI and data processing in Python, embedded systems with C++, and various developer tooling projects leveraging technologies like Node.js and GitHub Actions.
+This developer builds full-stack applications, with a strong emphasis on Java and Kotlin for backend services, often utilizing the Spring framework, and creating dynamic user interfaces with JavaScript, React, and TypeScript, including mobile applications with React Native. They also have experience across Python for data processing, AI, and scripting, C++ for embedded systems like Arduino, and dabble in game development for various platforms.
 <!-- summary-end -->
 
 <!-- tech-charts-start -->
