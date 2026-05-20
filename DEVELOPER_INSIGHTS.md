@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 154 repositories analysed_
+_Generated 2026-05-20 · 150 repositories analysed_
 
-## Overall Score: 32/100 — Tier D
+## Overall Score: 33/100 — Tier D
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 73/100   | 20% |
-| Depth     | 23/100     | 25% |
+| Depth     | 24/100     | 25% |
 | Diversity | 21/100 | 20% |
-| Activity  | 21/100  | 20% |
+| Activity  | 22/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -17,7 +17,7 @@ _Generated 2026-05-20 · 154 repositories analysed_
 
 **What it measures:** Range of programming languages and technology categories in use.
 
-**Languages detected (12):** `C++`, `Java`, `JavaScript`, `Vue`, `Kotlin`, `C`, `TypeScript`, `Python`, `CSS`, `PowerShell`, `HTML`, `Rust`
+**Languages detected (11):** `C++`, `Java`, `JavaScript`, `Vue`, `Kotlin`, `TypeScript`, `Python`, `CSS`, `PowerShell`, `HTML`, `Rust`
 
 **Tech categories covered (3/6):** `devops`, `frameworks`, `languages`
 
@@ -30,7 +30,7 @@ _Generated 2026-05-20 · 154 repositories analysed_
 
 ---
 
-## Depth — ██░░░░░░░░ 23/100
+## Depth — ██░░░░░░░░ 24/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -44,16 +44,16 @@ _Generated 2026-05-20 · 154 repositories analysed_
 | [`beautiful-emails-auth-service`](https://github.com/kevinthelago/beautiful-emails-auth-service) | ✗ | ✗ | ✗ |
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
 | [`bug-game`](https://github.com/kevinthelago/bug-game) | ✗ | ✗ | ✗ |
-| [`c-hackerrank-solutions`](https://github.com/kevinthelago/c-hackerrank-solutions) | ✗ | ✗ | ✗ |
-| [`c-vanilla-hello-world`](https://github.com/kevinthelago/c-vanilla-hello-world) | ✗ | ✗ | ✗ |
-| [`c-vanilla-sandbox`](https://github.com/kevinthelago/c-vanilla-sandbox) | ✗ | ✗ | ✗ |
-| [`Caelum`](https://github.com/kevinthelago/Caelum) | ✗ | ✗ | ✗ |
 | [`celebritea-browser`](https://github.com/kevinthelago/celebritea-browser) | ✗ | ✗ | ✗ |
 | [`coding_with_mosh-complete_python_mastery-notes`](https://github.com/kevinthelago/coding_with_mosh-complete_python_mastery-notes) | ✗ | ✗ | ✗ |
+| [`coding_with_mosh-ultimate_java-notes`](https://github.com/kevinthelago/coding_with_mosh-ultimate_java-notes) | ✗ | ✗ | ✗ |
+| [`coursera-google-data-analytics-notes`](https://github.com/kevinthelago/coursera-google-data-analytics-notes) | ✗ | ✗ | ✗ |
+| [`cpp-guide`](https://github.com/kevinthelago/cpp-guide) | ✗ | ✗ | ✗ |
+| [`cpp-hackerrank-solutions`](https://github.com/kevinthelago/cpp-hackerrank-solutions) | ✗ | ✗ | ✗ |
 
 **How to improve:**
-- Add descriptions to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `c-hackerrank-solutions` and 5 more
-- Add GitHub topics to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `c-hackerrank-solutions` and 5 more
+- Add descriptions to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `celebritea-browser` and 5 more
+- Add GitHub topics to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `celebritea-browser` and 5 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
@@ -64,28 +64,28 @@ _Generated 2026-05-20 · 154 repositories analysed_
 
 | Category | Repo count |
 |---|---|
-| `languages` | 96 |
+| `languages` | 95 |
 | `frameworks` | 6 |
 | `devops` | 4 |
 
 **How to improve:**
-- `languages` accounts for 91% of your activity — branching into other categories will raise this score
+- `languages` accounts for 90% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ██░░░░░░░░ 21/100
+## Activity — ██░░░░░░░░ 22/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 13 |
+| Last 30 days | 14 |
 | Last 90 days | 2 |
-| Last year    | 25 |
-| Over a year  | 114 |
+| Last year    | 24 |
+| Over a year  | 110 |
 
-**Stale repositories (114):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 106 more
+**Stale repositories (110):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 102 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
