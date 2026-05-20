@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 82 repositories analysed_
+_Generated 2026-05-20 · 80 repositories analysed_
 
-## Overall Score: 46/100 — Tier C
+## Overall Score: 47/100 — Tier C
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 87/100   | 20% |
-| Depth     | 34/100     | 25% |
+| Depth     | 35/100     | 25% |
 | Diversity | 42/100 | 20% |
-| Activity  | 40/100  | 20% |
+| Activity  | 44/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -29,7 +29,7 @@ _Generated 2026-05-20 · 82 repositories analysed_
 
 ---
 
-## Depth — ███░░░░░░░ 34/100
+## Depth — ████░░░░░░ 35/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -48,7 +48,7 @@ _Generated 2026-05-20 · 82 repositories analysed_
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
 | [`networkmonitor`](https://github.com/kevinthelago/networkmonitor) | ✗ | ✗ | ✗ |
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
-| [`pickle_ball_ui`](https://github.com/kevinthelago/pickle_ball_ui) | ✗ | ✗ | ✗ |
+| [`python-control-chart-generator`](https://github.com/kevinthelago/python-control-chart-generator) | ✗ | ✗ | ✗ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `kali` and 5 more
@@ -75,18 +75,18 @@ _Generated 2026-05-20 · 82 repositories analysed_
 
 ---
 
-## Activity — ████░░░░░░ 40/100
+## Activity — ████░░░░░░ 44/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 16 |
-| Last 90 days | 2 |
-| Last year    | 18 |
-| Over a year  | 46 |
+| Last 30 days | 19 |
+| Last 90 days | 1 |
+| Last year    | 16 |
+| Over a year  | 44 |
 
-**Stale repositories (46):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 38 more
+**Stale repositories (44):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 36 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
@@ -108,7 +108,7 @@ _Generated 2026-05-20 · 82 repositories analysed_
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | 2 | 0 |
 | [`python-time-complexity-graph-generator`](https://github.com/kevinthelago/python-time-complexity-graph-generator) | 1 | 0 |
 | [`SlackBot`](https://github.com/kevinthelago/SlackBot) | 1 | 0 |
-| [`ai_printed_money`](https://github.com/kevinthelago/ai_printed_money) | 0 | 0 |
+| [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | 0 | 0 |
 
 **How to improve:**
 - Add a polished README with screenshots or demos to your most interesting repos
