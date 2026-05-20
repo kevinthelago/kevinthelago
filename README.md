@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer demonstrates a strong command over full-stack development, specializing in robust backend services with Java and Kotlin (Spring Boot, microservices) complemented by modern frontends using React and Vue with TypeScript. They also explore diverse domains including embedded systems with C++ and Arduino, mobile applications with React Native, and generative AI integrations, showcasing a versatile engineering skill set.
+This developer demonstrates a strong background in full-stack web development, crafting scalable microservices with Java and Kotlin using Spring Boot, and building dynamic user interfaces with React, Vue, and TypeScript. Their work also extends to embedded systems with C++ and Arduino, alongside exploring areas such as generative AI, audio processing, and cross-platform desktop and mobile applications.
 <!-- summary-end -->
 
 <!-- rating-start -->
