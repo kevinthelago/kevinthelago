@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 149 repositories analysed_
+_Generated 2026-05-20 · 133 repositories analysed_
 
-## Overall Score: 33/100 — Tier D
+## Overall Score: 34/100 — Tier D
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 73/100   | 20% |
-| Depth     | 24/100     | 25% |
-| Diversity | 21/100 | 20% |
-| Activity  | 22/100  | 20% |
+| Depth     | 26/100     | 25% |
+| Diversity | 24/100 | 20% |
+| Activity  | 24/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -30,7 +30,7 @@ _Generated 2026-05-20 · 149 repositories analysed_
 
 ---
 
-## Depth — ██░░░░░░░░ 24/100
+## Depth — ███░░░░░░░ 26/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -47,9 +47,9 @@ _Generated 2026-05-20 · 149 repositories analysed_
 | [`celebritea-browser`](https://github.com/kevinthelago/celebritea-browser) | ✗ | ✗ | ✗ |
 | [`coding_with_mosh-complete_python_mastery-notes`](https://github.com/kevinthelago/coding_with_mosh-complete_python_mastery-notes) | ✗ | ✗ | ✗ |
 | [`coding_with_mosh-ultimate_java-notes`](https://github.com/kevinthelago/coding_with_mosh-ultimate_java-notes) | ✗ | ✗ | ✗ |
-| [`coursera-google-data-analytics-notes`](https://github.com/kevinthelago/coursera-google-data-analytics-notes) | ✗ | ✗ | ✗ |
-| [`cpp-hackerrank-solutions`](https://github.com/kevinthelago/cpp-hackerrank-solutions) | ✗ | ✗ | ✗ |
-| [`cpp-vanilla-calculator`](https://github.com/kevinthelago/cpp-vanilla-calculator) | ✗ | ✗ | ✗ |
+| [`fox-spot`](https://github.com/kevinthelago/fox-spot) | ✗ | ✗ | ✗ |
+| [`glauxb`](https://github.com/kevinthelago/glauxb) | ✗ | ✗ | ✗ |
+| [`java-8-fundamentals`](https://github.com/kevinthelago/java-8-fundamentals) | ✗ | ✗ | ✗ |
 
 **How to improve:**
 - Add descriptions to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `celebritea-browser` and 5 more
@@ -58,23 +58,23 @@ _Generated 2026-05-20 · 149 repositories analysed_
 
 ---
 
-## Diversity — ██░░░░░░░░ 21/100
+## Diversity — ██░░░░░░░░ 24/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 95 |
-| `frameworks` | 6 |
+| `languages` | 93 |
+| `frameworks` | 7 |
 | `devops` | 4 |
 
 **How to improve:**
-- `languages` accounts for 90% of your activity — branching into other categories will raise this score
+- `languages` accounts for 89% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ██░░░░░░░░ 22/100
+## Activity — ██░░░░░░░░ 24/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
@@ -82,10 +82,10 @@ _Generated 2026-05-20 · 149 repositories analysed_
 |---|---|
 | Last 30 days | 14 |
 | Last 90 days | 2 |
-| Last year    | 24 |
-| Over a year  | 109 |
+| Last year    | 22 |
+| Over a year  | 95 |
 
-**Stale repositories (109):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 101 more
+**Stale repositories (95):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 87 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
