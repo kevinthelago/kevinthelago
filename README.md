@@ -5,7 +5,7 @@
 <img src="./assets/tech-chart.svg" width="600" height="600" alt="Tech chart" />
 
 <!-- summary-start -->
-This developer specializes in full-stack development, building robust applications using Java with Spring, Kotlin for microservices, and Python for data analysis and scripting. They also craft dynamic user interfaces with JavaScript, React, and Vue, demonstrating a broad technical range from embedded systems to AI-powered tools and game development.
+This developer focuses on crafting scalable backend microservices using Java with Spring and Kotlin, while also building dynamic frontend applications across web and mobile platforms with React, Vue.js, and TypeScript. They also leverage Python for scripting, data analysis, and integrating with emerging technologies like generative AI and embedded systems with Arduino.
 <!-- summary-end -->
 
 <!-- tech-charts-start -->
