@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 80 repositories analysed_
+_Generated 2026-05-20 · 71 repositories analysed_
 
-## Overall Score: 47/100 — Tier C
+## Overall Score: 50/100 — Tier C
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 87/100   | 20% |
-| Depth     | 35/100     | 25% |
-| Diversity | 42/100 | 20% |
-| Activity  | 44/100  | 20% |
+| Depth     | 40/100     | 25% |
+| Diversity | 49/100 | 20% |
+| Activity  | 47/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -29,7 +29,7 @@ _Generated 2026-05-20 · 80 repositories analysed_
 
 ---
 
-## Depth — ████░░░░░░ 35/100
+## Depth — ████░░░░░░ 40/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -42,51 +42,51 @@ _Generated 2026-05-20 · 80 repositories analysed_
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
 | [`bug-game`](https://github.com/kevinthelago/bug-game) | ✗ | ✗ | ✗ |
 | [`fox-spot`](https://github.com/kevinthelago/fox-spot) | ✗ | ✗ | ✗ |
-| [`glauxb`](https://github.com/kevinthelago/glauxb) | ✗ | ✗ | ✗ |
 | [`kali`](https://github.com/kevinthelago/kali) | ✗ | ✗ | ✗ |
 | [`kevinthelago.github.io`](https://github.com/kevinthelago/kevinthelago.github.io) | ✗ | ✗ | ✗ |
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
 | [`networkmonitor`](https://github.com/kevinthelago/networkmonitor) | ✗ | ✗ | ✗ |
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
-| [`python-control-chart-generator`](https://github.com/kevinthelago/python-control-chart-generator) | ✗ | ✗ | ✗ |
+| [`python-vanilla-poke-scraper`](https://github.com/kevinthelago/python-vanilla-poke-scraper) | ✗ | ✗ | ✗ |
+| [`shootingvictims`](https://github.com/kevinthelago/shootingvictims) | ✗ | ✗ | ✗ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `kali` and 5 more
-- Add GitHub topics to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `kali` and 5 more
+- Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `kali`, `kevinthelago.github.io` and 5 more
+- Add GitHub topics to: `biosim`, `bug-game`, `fox-spot`, `kali`, `kevinthelago.github.io` and 5 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ████░░░░░░ 42/100
+## Diversity — █████░░░░░ 49/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 61 |
-| `frameworks` | 8 |
+| `languages` | 55 |
+| `frameworks` | 10 |
 | `devops` | 4 |
-| `databases` | 1 |
+| `databases` | 2 |
 | `ai` | 1 |
 
 **How to improve:**
-- `languages` accounts for 81% of your activity — branching into other categories will raise this score
+- `languages` accounts for 76% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ████░░░░░░ 44/100
+## Activity — █████░░░░░ 47/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
 | Last 30 days | 19 |
-| Last 90 days | 1 |
-| Last year    | 16 |
-| Over a year  | 44 |
+| Last 90 days | 0 |
+| Last year    | 15 |
+| Over a year  | 37 |
 
-**Stale repositories (44):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 36 more
+**Stale repositories (37):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 29 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
