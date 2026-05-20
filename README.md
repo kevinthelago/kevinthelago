@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer excels in full-stack web development, architecting robust backend services with Java Spring Boot and Kotlin, and creating dynamic user interfaces using React, React Native, and Vue with TypeScript and JavaScript. Their project repertoire also includes embedded systems with Arduino, Python utilities for AI and data processing, and microservice architectures for scalable solutions.
+This developer builds robust full-stack applications and microservices, primarily using Java and Kotlin with Spring for the backend, and JavaScript/TypeScript with React, Vue, or React Native for dynamic web and mobile interfaces. Their experience extends to embedded systems with Arduino, desktop solutions with Electron, and exploring AI/ML, game development, and audio processing across various projects.
 <!-- summary-end -->
 
 <!-- rating-start -->
