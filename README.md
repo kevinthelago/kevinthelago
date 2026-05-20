@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer excels at crafting robust backend solutions with Java and Kotlin, particularly leveraging Spring Boot and microservices architectures. They also demonstrate proficiency in modern frontend development using JavaScript and TypeScript across React, React Native, and Vue for web and mobile applications. Their diverse portfolio further showcases experience in embedded systems, generative AI, and various application domains like e-learning and gaming.
+This developer excels in full-stack web development, architecting robust backend services with Java Spring Boot and Kotlin, and creating dynamic user interfaces using React, React Native, and Vue with TypeScript and JavaScript. Their project repertoire also includes embedded systems with Arduino, Python utilities for AI and data processing, and microservice architectures for scalable solutions.
 <!-- summary-end -->
 
 <!-- rating-start -->
