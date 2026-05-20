@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in full-stack web and microservices development, proficiently building backends with Java Spring and Kotlin, and creating engaging frontends using JavaScript/TypeScript with React and Vue.js. They also apply Python for data analysis, AI, and scripting, while exploring embedded systems with C++ and Arduino, showcasing a broad command of technologies for web, mobile, and IoT applications.
+This developer excels in full-stack web development, crafting robust backend microservices with Java and Kotlin using Spring Boot, complemented by dynamic frontends built with JavaScript, TypeScript, React, and Vue. Their expertise also spans Python for AI/ML, data analysis, and scripting, alongside mobile and desktop application development, demonstrating a broad command of modern software technologies.
 <!-- summary-end -->
 
 <!-- rating-start -->
