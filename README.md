@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer builds robust full-stack applications and microservices, primarily using Java and Kotlin with Spring for the backend, and JavaScript/TypeScript with React, Vue, or React Native for dynamic web and mobile interfaces. Their experience extends to embedded systems with Arduino, desktop solutions with Electron, and exploring AI/ML, game development, and audio processing across various projects.
+Proficient in full-stack development, this individual builds robust microservice architectures using Java and Kotlin with Spring Boot, paired with dynamic frontends and mobile applications crafted in JavaScript and TypeScript (React, Next.js). Their diverse portfolio also extends to embedded systems with Arduino, AI-powered generative tools, and applications spanning music education and gaming.
 <!-- summary-end -->
 
 <!-- rating-start -->
@@ -9,9 +9,7 @@ This developer builds robust full-stack applications and microservices, primaril
 <!-- rating-end -->
 
 <!-- tech-charts-start -->
-<img src="./assets/tech-languages.svg" width="600" height="600" alt="Languages" />
-
-<img src="./assets/tech-frameworks.svg" width="600" height="600" alt="Frameworks" />
+<img src="./assets/tech-grid.svg" width="800" height="420" alt="Tech Stack" />
 <!-- tech-charts-end -->
 
 <!-- tech-start -->
