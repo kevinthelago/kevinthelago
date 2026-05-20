@@ -36,23 +36,15 @@
             >
                 
                             <text x="480" y="28" text-anchor='middle' class='account-summary-text' height="100%">
-                                 Woah, this developer is an absolute tech chameleon, building across the entire stack and beyond!
+                                 Woah, this dev is a total polyglot superstar, rocking everything from Python for super clever bots
                             </text>
                         ,
                             <text x="480" y="56" text-anchor='middle' class='account-summary-text' height="100%">
-                                They're a true maestro, effortlessly hopping between crafting slick React UIs, robust Java Spring
+                                and data visualization, to Java Spring for robust backend integrations! They're absolutely crushing
                             </text>
                         ,
                             <text x="480" y="84" text-anchor='middle' class='account-summary-text' height="100%">
-                                backends, and a whole arsenal of Python projects, covering everything from powerful Discord bots to
-                            </text>
-                        ,
-                            <text x="480" y="112" text-anchor='middle' class='account-summary-text' height="100%">
-                                cool hardware integrations and insightful data visualization. It's clear they love diving into
-                            </text>
-                        ,
-                            <text x="480" y="140" text-anchor='middle' class='account-summary-text' height="100%">
-                                diverse domains, from music and gaming integrations to AI experiments, always eager to build
+                                it building slick React UIs, cool Electron desktop apps, and even dipping into hardware and AI,
                             </text>
                         
             </svg>
