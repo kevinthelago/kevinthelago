@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer excels in crafting full-stack applications, primarily utilizing Java Spring for robust backend microservices and modern JavaScript frameworks like React and Vue for dynamic UIs. Their diverse portfolio also includes mobile development with React Native, embedded systems using Arduino, and AI-powered tools. They demonstrate a strong aptitude for Python scripting, data visualization, and game development.
+This developer specializes in full-stack application development, constructing robust backend services primarily with Java and Kotlin using Spring Boot for microservices. They craft engaging frontend user interfaces leveraging JavaScript, TypeScript, and React, while also engaging with embedded systems using Arduino, Python for scripting, and exploring generative AI applications across various domains including gaming and educational platforms.
 <!-- summary-end -->
 
 <!-- rating-start -->
