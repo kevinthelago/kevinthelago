@@ -8,7 +8,7 @@ _Generated 2026-05-20 · 71 repositories analysed_
 | Breadth   | 87/100   | 20% |
 | Depth     | 40/100     | 25% |
 | Diversity | 49/100 | 20% |
-| Activity  | 47/100  | 20% |
+| Activity  | 49/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -75,18 +75,18 @@ _Generated 2026-05-20 · 71 repositories analysed_
 
 ---
 
-## Activity — █████░░░░░ 47/100
+## Activity — █████░░░░░ 49/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 19 |
+| Last 30 days | 20 |
 | Last 90 days | 0 |
 | Last year    | 15 |
-| Over a year  | 37 |
+| Over a year  | 36 |
 
-**Stale repositories (37):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 29 more
+**Stale repositories (36):** [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`wotos-config`](https://github.com/kevinthelago/wotos-config) and 28 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
