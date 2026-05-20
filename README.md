@@ -5,8 +5,12 @@
 <img src="./assets/tech-chart.svg" width="600" height="600" alt="Tech chart" />
 
 <!-- summary-start -->
-This developer builds full-stack applications, with a strong emphasis on Java and Kotlin for backend services, often utilizing the Spring framework, and creating dynamic user interfaces with JavaScript, React, and TypeScript, including mobile applications with React Native. They also have experience across Python for data processing, AI, and scripting, C++ for embedded systems like Arduino, and dabble in game development for various platforms.
+This developer excels in full-stack web development, building robust backends with Java Spring Boot, Kotlin, and Python, while creating dynamic frontends using React, JavaScript, and TypeScript for web and mobile. They also delve into AI, embedded systems with Arduino, and designing complex microservices architectures.
 <!-- summary-end -->
+
+<!-- rating-start -->
+<img src="./assets/developer-rating.svg" width="800" height="280" alt="Developer Rating" />
+<!-- rating-end -->
 
 <!-- tech-charts-start -->
 <img src="./assets/tech-languages.svg" width="600" height="600" alt="Languages" />
