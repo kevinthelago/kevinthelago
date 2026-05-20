@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer builds full-stack applications, excelling in robust backend development using Java Spring and Kotlin, and crafting dynamic user interfaces with JavaScript, TypeScript, React, and Vue.js. Their diverse portfolio also showcases explorations into generative AI, embedded systems with Arduino, and various gaming or multimedia projects.
+This developer specializes in building full-stack applications, leveraging Java and Spring for robust microservice backends, alongside JavaScript, TypeScript, and React for dynamic web and mobile interfaces. Their diverse portfolio showcases expertise in IoT projects with Arduino and Python-based scripting. They also explore generative AI tooling and dabble in game development.
 <!-- summary-end -->
 
 <!-- rating-start -->
