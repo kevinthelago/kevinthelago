@@ -8,7 +8,7 @@
     <rect width="800" height="280" fill="url(#dr-bg)" rx="12"/>
     
     <text x="95" y="46" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="11" letter-spacing="3" font-family="Arial, sans-serif">DEVELOPER RATING</text>
-    <text x="95" y="118" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="Arial, sans-serif">32</text>
+    <text x="95" y="118" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="Arial, sans-serif">33</text>
     <text x="95" y="140" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="11" font-family="Arial, sans-serif">out of 100</text>
     <line x1="67" y1="168" x2="123" y2="168" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
     
@@ -22,16 +22,16 @@
     <text x="780" y="67" fill="#c792ea" font-size="11" font-weight="bold" font-family="Arial, sans-serif">73</text>
     <text x="246" y="90" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DEPTH</text>
     <rect x="246" y="94" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="94" width="121" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
-    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">23</text>
+    <rect x="246" y="94" width="126" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
+    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">24</text>
     <text x="246" y="126" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DIVERSITY</text>
     <rect x="246" y="130" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
     <rect x="246" y="130" width="110" height="10" rx="5" fill="#89ddff" fill-opacity="0.85"/>
     <text x="780" y="139" fill="#89ddff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">21</text>
     <text x="246" y="162" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">ACTIVITY</text>
     <rect x="246" y="166" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="166" width="110" height="10" rx="5" fill="#c3e88d" fill-opacity="0.85"/>
-    <text x="780" y="175" fill="#c3e88d" font-size="11" font-weight="bold" font-family="Arial, sans-serif">21</text>
+    <rect x="246" y="166" width="116" height="10" rx="5" fill="#c3e88d" fill-opacity="0.85"/>
+    <text x="780" y="175" fill="#c3e88d" font-size="11" font-weight="bold" font-family="Arial, sans-serif">22</text>
     <text x="246" y="198" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">IMPACT</text>
     <rect x="246" y="202" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
     <rect x="246" y="202" width="121" height="10" rx="5" fill="#f78c6c" fill-opacity="0.85"/>
