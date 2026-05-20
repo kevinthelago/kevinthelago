@@ -1,36 +1,35 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 127 repositories analysed_
+_Generated 2026-05-20 · 117 repositories analysed_
 
-## Overall Score: 35/100 — Tier D
+## Overall Score: 39/100 — Tier D
 
 | Dimension | Score | Weight |
 |---|---|---|
-| Breadth   | 73/100   | 20% |
-| Depth     | 28/100     | 25% |
-| Diversity | 24/100 | 20% |
-| Activity  | 25/100  | 20% |
+| Breadth   | 80/100   | 20% |
+| Depth     | 30/100     | 25% |
+| Diversity | 31/100 | 20% |
+| Activity  | 28/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
 
-## Breadth — ███████░░░ 73/100
+## Breadth — ████████░░ 80/100
 
 **What it measures:** Range of programming languages and technology categories in use.
 
 **Languages detected (11):** `C++`, `Java`, `JavaScript`, `Vue`, `Kotlin`, `TypeScript`, `CSS`, `Python`, `PowerShell`, `HTML`, `Rust`
 
-**Tech categories covered (3/6):** `devops`, `frameworks`, `languages`
+**Tech categories covered (4/6):** `devops`, `frameworks`, `ai`, `languages`
 
-**Missing categories:** `cloud`, `ai`, `databases`
+**Missing categories:** `cloud`, `databases`
 
 **How to improve:**
 - Add relevant GitHub topics to your repos (e.g. `react`, `docker`, `postgresql`) to surface missing categories
 - Tag repos that use cloud services with topics like `aws`, `azure`, or `gcp`
-- Tag AI/LLM projects with topics like `openai`, `langchain`, or `llm`
 
 ---
 
-## Depth — ███░░░░░░░ 28/100
+## Depth — ███░░░░░░░ 30/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -58,34 +57,35 @@ _Generated 2026-05-20 · 127 repositories analysed_
 
 ---
 
-## Diversity — ██░░░░░░░░ 24/100
+## Diversity — ███░░░░░░░ 31/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 91 |
-| `frameworks` | 7 |
+| `languages` | 83 |
+| `frameworks` | 8 |
 | `devops` | 4 |
+| `ai` | 1 |
 
 **How to improve:**
-- `languages` accounts for 89% of your activity — branching into other categories will raise this score
+- `languages` accounts for 86% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ███░░░░░░░ 25/100
+## Activity — ███░░░░░░░ 28/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 15 |
+| Last 30 days | 16 |
 | Last 90 days | 2 |
 | Last year    | 18 |
-| Over a year  | 92 |
+| Over a year  | 81 |
 
-**Stale repositories (92):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 84 more
+**Stale repositories (81):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 73 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
