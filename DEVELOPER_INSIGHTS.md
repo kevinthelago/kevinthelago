@@ -1,5 +1,5 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 105 repositories analysed_
+_Generated 2026-05-20 · 102 repositories analysed_
 
 ## Overall Score: 40/100 — Tier C
 
@@ -8,7 +8,7 @@ _Generated 2026-05-20 · 105 repositories analysed_
 | Breadth   | 80/100   | 20% |
 | Depth     | 30/100     | 25% |
 | Diversity | 33/100 | 20% |
-| Activity  | 31/100  | 20% |
+| Activity  | 32/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -47,8 +47,8 @@ _Generated 2026-05-20 · 105 repositories analysed_
 | [`java-spring-fancy-todo`](https://github.com/kevinthelago/java-spring-fancy-todo) | ✗ | ✗ | ✗ |
 | [`java-spring-maven-react-git-submodule-dependency`](https://github.com/kevinthelago/java-spring-maven-react-git-submodule-dependency) | ✗ | ✗ | ✗ |
 | [`java-spring-user-secured-webapp`](https://github.com/kevinthelago/java-spring-user-secured-webapp) | ✗ | ✗ | ✗ |
-| [`java-spring-world-of-tanks-recent-statistics-twitch-extension-service`](https://github.com/kevinthelago/java-spring-world-of-tanks-recent-statistics-twitch-extension-service) | ✗ | ✗ | ✗ |
-| [`java-spring-world-of-tanks-tank-statistics-twitch-extension-service`](https://github.com/kevinthelago/java-spring-world-of-tanks-tank-statistics-twitch-extension-service) | ✗ | ✗ | ✗ |
+| [`java-vanilla-led-controller-client`](https://github.com/kevinthelago/java-vanilla-led-controller-client) | ✗ | ✗ | ✗ |
+| [`java-vanilla-led-controller-server`](https://github.com/kevinthelago/java-vanilla-led-controller-server) | ✗ | ✗ | ✗ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `java-bolt-slack-bot` and 5 more
@@ -74,7 +74,7 @@ _Generated 2026-05-20 · 105 repositories analysed_
 
 ---
 
-## Activity — ███░░░░░░░ 31/100
+## Activity — ███░░░░░░░ 32/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
@@ -83,9 +83,9 @@ _Generated 2026-05-20 · 105 repositories analysed_
 | Last 30 days | 16 |
 | Last 90 days | 2 |
 | Last year    | 18 |
-| Over a year  | 69 |
+| Over a year  | 66 |
 
-**Stale repositories (69):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 61 more
+**Stale repositories (66):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 58 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
