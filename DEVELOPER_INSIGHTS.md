@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 89 repositories analysed_
+_Generated 2026-05-20 · 82 repositories analysed_
 
-## Overall Score: 44/100 — Tier C
+## Overall Score: 46/100 — Tier C
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 87/100   | 20% |
-| Depth     | 33/100     | 25% |
-| Diversity | 39/100 | 20% |
-| Activity  | 37/100  | 20% |
+| Depth     | 34/100     | 25% |
+| Diversity | 42/100 | 20% |
+| Activity  | 40/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -29,7 +29,7 @@ _Generated 2026-05-20 · 89 repositories analysed_
 
 ---
 
-## Depth — ███░░░░░░░ 33/100
+## Depth — ███░░░░░░░ 34/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -57,25 +57,25 @@ _Generated 2026-05-20 · 89 repositories analysed_
 
 ---
 
-## Diversity — ████░░░░░░ 39/100
+## Diversity — ████░░░░░░ 42/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 68 |
-| `frameworks` | 7 |
+| `languages` | 61 |
+| `frameworks` | 8 |
 | `devops` | 4 |
 | `databases` | 1 |
 | `ai` | 1 |
 
 **How to improve:**
-- `languages` accounts for 84% of your activity — branching into other categories will raise this score
+- `languages` accounts for 81% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ████░░░░░░ 37/100
+## Activity — ████░░░░░░ 40/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
@@ -84,9 +84,9 @@ _Generated 2026-05-20 · 89 repositories analysed_
 | Last 30 days | 16 |
 | Last 90 days | 2 |
 | Last year    | 18 |
-| Over a year  | 53 |
+| Over a year  | 46 |
 
-**Stale repositories (53):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 45 more
+**Stale repositories (46):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 38 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
