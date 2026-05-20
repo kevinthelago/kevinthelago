@@ -1,5 +1,5 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 150 repositories analysed_
+_Generated 2026-05-20 · 149 repositories analysed_
 
 ## Overall Score: 33/100 — Tier D
 
@@ -48,8 +48,8 @@ _Generated 2026-05-20 · 150 repositories analysed_
 | [`coding_with_mosh-complete_python_mastery-notes`](https://github.com/kevinthelago/coding_with_mosh-complete_python_mastery-notes) | ✗ | ✗ | ✗ |
 | [`coding_with_mosh-ultimate_java-notes`](https://github.com/kevinthelago/coding_with_mosh-ultimate_java-notes) | ✗ | ✗ | ✗ |
 | [`coursera-google-data-analytics-notes`](https://github.com/kevinthelago/coursera-google-data-analytics-notes) | ✗ | ✗ | ✗ |
-| [`cpp-guide`](https://github.com/kevinthelago/cpp-guide) | ✗ | ✗ | ✗ |
 | [`cpp-hackerrank-solutions`](https://github.com/kevinthelago/cpp-hackerrank-solutions) | ✗ | ✗ | ✗ |
+| [`cpp-vanilla-calculator`](https://github.com/kevinthelago/cpp-vanilla-calculator) | ✗ | ✗ | ✗ |
 
 **How to improve:**
 - Add descriptions to: `beautiful-emails-admin-service`, `beautiful-emails-auth-service`, `biosim`, `bug-game`, `celebritea-browser` and 5 more
@@ -83,9 +83,9 @@ _Generated 2026-05-20 · 150 repositories analysed_
 | Last 30 days | 14 |
 | Last 90 days | 2 |
 | Last year    | 24 |
-| Over a year  | 110 |
+| Over a year  | 109 |
 
-**Stale repositories (110):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 102 more
+**Stale repositories (109):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`react-drag-n-drop`](https://github.com/kevinthelago/react-drag-n-drop), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) and 101 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
