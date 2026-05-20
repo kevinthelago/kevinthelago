@@ -5,7 +5,7 @@
 <img src="./assets/tech-chart.svg" width="600" height="600" alt="Tech chart" />
 
 <!-- summary-start -->
-This developer focuses on crafting scalable backend microservices using Java with Spring and Kotlin, while also building dynamic frontend applications across web and mobile platforms with React, Vue.js, and TypeScript. They also leverage Python for scripting, data analysis, and integrating with emerging technologies like generative AI and embedded systems with Arduino.
+This developer excels in full-stack web development, utilizing Java with Spring Boot and Kotlin for scalable backend microservices, alongside JavaScript, TypeScript, React, Vue, and React Native for dynamic web and mobile interfaces. They also demonstrate expertise in Python for data analysis, scripting, and generative AI, while exploring diverse domains from embedded systems with Arduino to game development and algorithmic problem-solving.
 <!-- summary-end -->
 
 <!-- tech-charts-start -->
