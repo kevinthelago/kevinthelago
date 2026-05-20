@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in full-stack engineering, building scalable microservice backends with Java and Kotlin using Spring Boot, and crafting dynamic web UIs with JavaScript/TypeScript frameworks like React, Vue, and Next.js. Their expertise extends to diverse areas including enterprise integrations, embedded systems with Rust and Arduino, mobile and desktop applications, Python utilities, and leveraging generative AI.
+This developer demonstrates strong full-stack capabilities, building robust backend microservices and integrations using Java and Kotlin with Spring Boot, complemented by dynamic web and mobile frontends in JavaScript, TypeScript, React, and Vue. They also engage with embedded systems, developing IoT solutions with C++ and Rust for hardware like Arduino and Raspberry Pi, while exploring fields such as generative AI, gamification, and music education.
 <!-- summary-end -->
 
 <!-- rating-start -->
