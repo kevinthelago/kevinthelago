@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer is a versatile full-stack engineer with expertise across Java Spring and Kotlin for robust backend microservices, alongside Python for scripting, data, and automation. Their frontend skills span JavaScript/TypeScript with React, React Native, and Vue, often building engaging user interfaces and mobile applications. They also delve into embedded systems with C++ and Arduino, and explore generative AI, demonstrating a broad technical range.
+This developer is proficient in full-stack web and microservice development, primarily utilizing Java with Spring and Kotlin for robust backend architectures. On the frontend, they specialize in creating dynamic user interfaces and mobile applications using JavaScript/TypeScript with frameworks like React, Vue, and React Native. Beyond web development, their interests span embedded systems with C++ and Arduino, along with practical applications of AI/ML and Python-based tools for data analysis and automation.
 <!-- summary-end -->
 
 <!-- rating-start -->
