@@ -1,9 +1,5 @@
 # Welcome!
 
-<img src="./assets/account-summary.svg" width="960" height="540" alt="Account summary" />
-
-<img src="./assets/tech-chart.svg" width="600" height="600" alt="Tech chart" />
-
 <!-- summary-start -->
 This developer specializes in full-stack web and microservices development, proficiently building backends with Java Spring and Kotlin, and creating engaging frontends using JavaScript/TypeScript with React and Vue.js. They also apply Python for data analysis, AI, and scripting, while exploring embedded systems with C++ and Arduino, showcasing a broad command of technologies for web, mobile, and IoT applications.
 <!-- summary-end -->
