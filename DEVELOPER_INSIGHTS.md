@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-20 · 102 repositories analysed_
+_Generated 2026-05-20 · 96 repositories analysed_
 
-## Overall Score: 40/100 — Tier C
+## Overall Score: 41/100 — Tier C
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 80/100   | 20% |
-| Depth     | 30/100     | 25% |
-| Diversity | 33/100 | 20% |
-| Activity  | 32/100  | 20% |
+| Depth     | 33/100     | 25% |
+| Diversity | 34/100 | 20% |
+| Activity  | 34/100  | 20% |
 | Impact    | 23/100    | 15% |
 
 ---
@@ -29,7 +29,7 @@ _Generated 2026-05-20 · 102 repositories analysed_
 
 ---
 
-## Depth — ███░░░░░░░ 30/100
+## Depth — ███░░░░░░░ 33/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -43,38 +43,38 @@ _Generated 2026-05-20 · 102 repositories analysed_
 | [`bug-game`](https://github.com/kevinthelago/bug-game) | ✗ | ✗ | ✗ |
 | [`fox-spot`](https://github.com/kevinthelago/fox-spot) | ✗ | ✗ | ✗ |
 | [`glauxb`](https://github.com/kevinthelago/glauxb) | ✗ | ✗ | ✗ |
-| [`java-bolt-slack-bot`](https://github.com/kevinthelago/java-bolt-slack-bot) | ✗ | ✗ | ✗ |
 | [`java-spring-fancy-todo`](https://github.com/kevinthelago/java-spring-fancy-todo) | ✗ | ✗ | ✗ |
-| [`java-spring-maven-react-git-submodule-dependency`](https://github.com/kevinthelago/java-spring-maven-react-git-submodule-dependency) | ✗ | ✗ | ✗ |
-| [`java-spring-user-secured-webapp`](https://github.com/kevinthelago/java-spring-user-secured-webapp) | ✗ | ✗ | ✗ |
-| [`java-vanilla-led-controller-client`](https://github.com/kevinthelago/java-vanilla-led-controller-client) | ✗ | ✗ | ✗ |
-| [`java-vanilla-led-controller-server`](https://github.com/kevinthelago/java-vanilla-led-controller-server) | ✗ | ✗ | ✗ |
+| [`javascript-react-world-of-tanks-recent-statistics-twitch-extension-ui`](https://github.com/kevinthelago/javascript-react-world-of-tanks-recent-statistics-twitch-extension-ui) | ✗ | ✗ | ✗ |
+| [`javascript-react-world-of-tanks-tank-statistics-twitch-extension-ui`](https://github.com/kevinthelago/javascript-react-world-of-tanks-tank-statistics-twitch-extension-ui) | ✗ | ✗ | ✗ |
+| [`kali`](https://github.com/kevinthelago/kali) | ✗ | ✗ | ✗ |
+| [`kevinthelago.github.io`](https://github.com/kevinthelago/kevinthelago.github.io) | ✗ | ✗ | ✗ |
+| [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `java-bolt-slack-bot` and 5 more
-- Add GitHub topics to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `java-bolt-slack-bot` and 5 more
+- Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `java-spring-fancy-todo` and 5 more
+- Add GitHub topics to: `biosim`, `bug-game`, `fox-spot`, `glauxb`, `java-spring-fancy-todo` and 5 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ███░░░░░░░ 33/100
+## Diversity — ███░░░░░░░ 34/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 75 |
-| `frameworks` | 8 |
+| `languages` | 73 |
+| `frameworks` | 9 |
 | `devops` | 4 |
 | `ai` | 1 |
 
 **How to improve:**
-- `languages` accounts for 85% of your activity — branching into other categories will raise this score
+- `languages` accounts for 84% of your activity — branching into other categories will raise this score
 - Try adding topics to repos in underrepresented categories, or start a project in a new domain
 
 ---
 
-## Activity — ███░░░░░░░ 32/100
+## Activity — ███░░░░░░░ 34/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
@@ -83,9 +83,9 @@ _Generated 2026-05-20 · 102 repositories analysed_
 | Last 30 days | 16 |
 | Last 90 days | 2 |
 | Last year    | 18 |
-| Over a year  | 66 |
+| Over a year  | 60 |
 
-**Stale repositories (66):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 58 more
+**Stale repositories (60):** [`MineFox`](https://github.com/kevinthelago/MineFox), [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course) and 52 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
