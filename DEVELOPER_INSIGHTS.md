@@ -1,14 +1,14 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 68 repositories analysed_
 
-## Overall Score: 54/100 — Tier C
+## Overall Score: 59/100 — Tier B
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 44/100     | 25% |
-| Diversity | 56/100 | 20% |
-| Activity  | 51/100  | 20% |
+| Depth     | 56/100     | 25% |
+| Diversity | 64/100 | 20% |
+| Activity  | 53/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 ---
 
-## Depth — ████░░░░░░ 44/100
+## Depth — ██████░░░░ 56/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -43,8 +43,8 @@ _Generated 2026-05-21 · 68 repositories analysed_
 | [`networkmonitor`](https://github.com/kevinthelago/networkmonitor) | ✗ | ✗ | ✗ |
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
 | [`shootingvictims`](https://github.com/kevinthelago/shootingvictims) | ✗ | ✗ | ✗ |
-| [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✗ | ✗ |
-| [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server) | ✗ | ✗ | ✗ |
+| [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
+| [`beautiful-emails`](https://github.com/kevinthelago/beautiful-emails) | ✗ | ✗ | ✓ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `kali`, `laife-coach-server` and 5 more
@@ -53,34 +53,32 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 ---
 
-## Diversity — ██████░░░░ 56/100
+## Diversity — ██████░░░░ 64/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
 | `languages` | 54 |
-| `frameworks` | 13 |
-| `devops` | 4 |
-| `databases` | 3 |
+| `frameworks` | 27 |
+| `databases` | 7 |
+| `devops` | 5 |
 | `cloud` | 1 |
 | `ai` | 1 |
 
-**How to improve:**
-- `languages` accounts for 71% of your activity — branching into other categories will raise this score
-- Try adding topics to repos in underrepresented categories, or start a project in a new domain
+> Good spread across categories.
 
 ---
 
-## Activity — █████░░░░░ 51/100
+## Activity — █████░░░░░ 53/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 20 |
+| Last 30 days | 21 |
 | Last 90 days | 0 |
-| Last year    | 15 |
+| Last year    | 14 |
 | Over a year  | 33 |
 
 **Stale repositories (33):** [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`wotos-config`](https://github.com/kevinthelago/wotos-config) and 25 more
