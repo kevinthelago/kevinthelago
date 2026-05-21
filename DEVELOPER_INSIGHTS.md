@@ -1,14 +1,14 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 63 repositories analysed_
 
-## Overall Score: 73/100 — Tier A
+## Overall Score: 75/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 67/100     | 25% |
-| Diversity | 73/100 | 20% |
-| Activity  | 99/100  | 20% |
+| Depth     | 71/100     | 25% |
+| Diversity | 75/100 | 20% |
+| Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 63 repositories analysed_
 
 ---
 
-## Depth — ███████░░░ 67/100
+## Depth — ███████░░░ 71/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -42,9 +42,9 @@ _Generated 2026-05-21 · 63 repositories analysed_
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
 | [`java-phone`](https://github.com/kevinthelago/java-phone) | ✗ | ✗ | ✓ |
-| [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension) | ✗ | ✗ | ✓ |
-| [`javascript-react-steam-achievements-twitch-extension-ui`](https://github.com/kevinthelago/javascript-react-steam-achievements-twitch-extension-ui) | ✗ | ✗ | ✓ |
-| [`javascript-react-twitch-scenes`](https://github.com/kevinthelago/javascript-react-twitch-scenes) | ✗ | ✗ | ✓ |
+| [`java_course`](https://github.com/kevinthelago/java_course) | ✗ | ✗ | ✓ |
+| [`Mobile-Studio-Code`](https://github.com/kevinthelago/Mobile-Studio-Code) | ✗ | ✗ | ✓ |
+| [`note-ai`](https://github.com/kevinthelago/note-ai) | ✗ | ✗ | ✓ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
@@ -53,35 +53,35 @@ _Generated 2026-05-21 · 63 repositories analysed_
 
 ---
 
-## Diversity — ███████░░░ 73/100
+## Diversity — ████████░░ 75/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
 | `languages` | 54 |
-| `frameworks` | 32 |
-| `databases` | 9 |
+| `frameworks` | 35 |
+| `databases` | 10 |
 | `devops` | 7 |
+| `ai` | 4 |
 | `cloud` | 3 |
-| `ai` | 3 |
 
 > Good spread across categories.
 
 ---
 
-## Activity — ██████████ 99/100
+## Activity — ██████████ 100/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 41 |
+| Last 30 days | 45 |
 | Last 90 days | 0 |
 | Last year    | 10 |
-| Over a year  | 12 |
+| Over a year  | 8 |
 
-**Stale repositories (12):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`pokesight-nread`](https://github.com/kevinthelago/pokesight-nread), [`javascript-react-twitch-scenes`](https://github.com/kevinthelago/javascript-react-twitch-scenes) and 4 more
+**Stale repositories (8):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`biosim`](https://github.com/kevinthelago/biosim), [`java-phone`](https://github.com/kevinthelago/java-phone), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
