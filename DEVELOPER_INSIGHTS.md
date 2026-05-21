@@ -1,13 +1,13 @@
 # Developer Score Insights
-_Generated 2026-05-21 · 63 repositories analysed_
+_Generated 2026-05-21 · 62 repositories analysed_
 
-## Overall Score: 75/100 — Tier A
+## Overall Score: 76/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 71/100     | 25% |
-| Diversity | 75/100 | 20% |
+| Depth     | 74/100     | 25% |
+| Diversity | 77/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
 
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 63 repositories analysed_
 
 ---
 
-## Depth — ███████░░░ 71/100
+## Depth — ███████░░░ 74/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -41,29 +41,29 @@ _Generated 2026-05-21 · 63 repositories analysed_
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
-| [`java-phone`](https://github.com/kevinthelago/java-phone) | ✗ | ✗ | ✓ |
 | [`java_course`](https://github.com/kevinthelago/java_course) | ✗ | ✗ | ✓ |
-| [`Mobile-Studio-Code`](https://github.com/kevinthelago/Mobile-Studio-Code) | ✗ | ✗ | ✓ |
-| [`note-ai`](https://github.com/kevinthelago/note-ai) | ✗ | ✗ | ✓ |
+| [`rusty_glauxb`](https://github.com/kevinthelago/rusty_glauxb) | ✗ | ✗ | ✓ |
+| [`task-fox`](https://github.com/kevinthelago/task-fox) | ✗ | ✗ | ✓ |
+| [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | ✗ | ✓ | ✗ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 4 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ████████░░ 75/100
+## Diversity — ████████░░ 77/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 54 |
-| `frameworks` | 35 |
+| `languages` | 53 |
+| `frameworks` | 37 |
 | `databases` | 10 |
 | `devops` | 7 |
-| `ai` | 4 |
+| `ai` | 6 |
 | `cloud` | 3 |
 
 > Good spread across categories.
@@ -76,12 +76,12 @@ _Generated 2026-05-21 · 63 repositories analysed_
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 45 |
+| Last 30 days | 46 |
 | Last 90 days | 0 |
-| Last year    | 10 |
-| Over a year  | 8 |
+| Last year    | 9 |
+| Over a year  | 7 |
 
-**Stale repositories (8):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`biosim`](https://github.com/kevinthelago/biosim), [`java-phone`](https://github.com/kevinthelago/java-phone), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
+**Stale repositories (7):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`biosim`](https://github.com/kevinthelago/biosim), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
