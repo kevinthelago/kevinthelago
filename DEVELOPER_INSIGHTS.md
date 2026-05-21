@@ -1,12 +1,12 @@
 # Developer Score Insights
-_Generated 2026-05-21 · 61 repositories analysed_
+_Generated 2026-05-21 · 60 repositories analysed_
 
 ## Overall Score: 77/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 77/100     | 25% |
+| Depth     | 80/100     | 25% |
 | Diversity | 78/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 61 repositories analysed_
 
 ---
 
-## Depth — ████████░░ 77/100
+## Depth — ████████░░ 80/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -41,14 +41,14 @@ _Generated 2026-05-21 · 61 repositories analysed_
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
 | [`java_course`](https://github.com/kevinthelago/java_course) | ✗ | ✗ | ✓ |
-| [`task-fox`](https://github.com/kevinthelago/task-fox) | ✗ | ✗ | ✓ |
 | [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | ✗ | ✓ | ✗ |
 | [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✓ | ✗ |
-| [`moon`](https://github.com/kevinthelago/moon) | ✓ | ✗ | ✗ |
+| [`artventure-browser-login`](https://github.com/kevinthelago/artventure-browser-login) | ✗ | ✓ | ✓ |
+| [`artventure-server`](https://github.com/kevinthelago/artventure-server) | ✗ | ✓ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 4 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 3 more
+- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 5 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 1 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
@@ -60,8 +60,8 @@ _Generated 2026-05-21 · 61 repositories analysed_
 | Category | Repo count |
 |---|---|
 | `languages` | 52 |
-| `frameworks` | 37 |
-| `databases` | 10 |
+| `frameworks` | 38 |
+| `databases` | 11 |
 | `devops` | 7 |
 | `ai` | 7 |
 | `cloud` | 3 |
@@ -76,15 +76,14 @@ _Generated 2026-05-21 · 61 repositories analysed_
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 46 |
+| Last 30 days | 48 |
 | Last 90 days | 0 |
-| Last year    | 9 |
-| Over a year  | 6 |
+| Last year    | 7 |
+| Over a year  | 5 |
 
-**Stale repositories (6):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`biosim`](https://github.com/kevinthelago/biosim), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
+**Stale repositories (5):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`biosim`](https://github.com/kevinthelago/biosim)
 
 **How to improve:**
-- Consider archiving truly abandoned repos to improve the signal-to-noise ratio
 - Even small improvements (README updates, dependency bumps) count as activity
 
 ---
