@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-21 · 68 repositories analysed_
+_Generated 2026-05-21 · 66 repositories analysed_
 
-## Overall Score: 66/100 — Tier B
+## Overall Score: 68/100 — Tier B
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 56/100     | 25% |
-| Diversity | 64/100 | 20% |
-| Activity  | 86/100  | 20% |
+| Depth     | 61/100     | 25% |
+| Diversity | 69/100 | 20% |
+| Activity  | 88/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -17,7 +17,7 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 **What it measures:** Range of programming languages and technology categories in use.
 
-**Languages detected (10):** `C++`, `Java`, `JavaScript`, `Vue`, `Kotlin`, `TypeScript`, `CSS`, `Python`, `Rust`, `HTML`
+**Languages detected (11):** `C++`, `Java`, `JavaScript`, `Vue`, `Kotlin`, `TypeScript`, `CSS`, `Shell`, `Python`, `Rust`, `HTML`
 
 **Tech categories covered (6/6):** `devops`, `databases`, `frameworks`, `cloud`, `ai`, `languages`
 
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 ---
 
-## Depth — ██████░░░░ 56/100
+## Depth — ██████░░░░ 61/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -36,41 +36,41 @@ _Generated 2026-05-21 · 68 repositories analysed_
 | Repository | Description | Topics | Size |
 |---|:---:|:---:|:---:|
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
-| [`bug-game`](https://github.com/kevinthelago/bug-game) | ✗ | ✗ | ✗ |
-| [`fox-spot`](https://github.com/kevinthelago/fox-spot) | ✗ | ✗ | ✗ |
-| [`kali`](https://github.com/kevinthelago/kali) | ✗ | ✗ | ✗ |
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
-| [`networkmonitor`](https://github.com/kevinthelago/networkmonitor) | ✗ | ✗ | ✗ |
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
 | [`shootingvictims`](https://github.com/kevinthelago/shootingvictims) | ✗ | ✗ | ✗ |
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
-| [`beautiful-emails`](https://github.com/kevinthelago/beautiful-emails) | ✗ | ✗ | ✓ |
+| [`celebritea`](https://github.com/kevinthelago/celebritea) | ✗ | ✗ | ✓ |
+| [`celebritea-mobile`](https://github.com/kevinthelago/celebritea-mobile) | ✗ | ✗ | ✓ |
+| [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
+| [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
+| [`java-phone`](https://github.com/kevinthelago/java-phone) | ✗ | ✗ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `bug-game`, `fox-spot`, `kali`, `laife-coach-server` and 5 more
-- Add GitHub topics to: `biosim`, `bug-game`, `fox-spot`, `kali`, `laife-coach-server` and 5 more
+- Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `shootingvictims`, `artist_portfolio_admin_ui` and 5 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `shootingvictims`, `artist_portfolio_admin_ui` and 5 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ██████░░░░ 64/100
+## Diversity — ███████░░░ 69/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 54 |
-| `frameworks` | 27 |
-| `databases` | 7 |
-| `devops` | 5 |
+| `languages` | 56 |
+| `frameworks` | 28 |
+| `databases` | 8 |
+| `devops` | 7 |
+| `ai` | 2 |
 | `cloud` | 1 |
-| `ai` | 1 |
 
 > Good spread across categories.
 
 ---
 
-## Activity — █████████░ 86/100
+## Activity — █████████░ 88/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
@@ -78,10 +78,10 @@ _Generated 2026-05-21 · 68 repositories analysed_
 |---|---|
 | Last 30 days | 37 |
 | Last 90 days | 0 |
-| Last year    | 14 |
-| Over a year  | 17 |
+| Last year    | 13 |
+| Over a year  | 16 |
 
-**Stale repositories (17):** [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`unity-spheres`](https://github.com/kevinthelago/unity-spheres), [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp), [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide) and 9 more
+**Stale repositories (16):** [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`unity-spheres`](https://github.com/kevinthelago/unity-spheres), [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp), [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide) and 8 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
