@@ -1,13 +1,13 @@
 # Developer Score Insights
-_Generated 2026-05-21 · 62 repositories analysed_
+_Generated 2026-05-21 · 61 repositories analysed_
 
-## Overall Score: 76/100 — Tier A
+## Overall Score: 77/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 74/100     | 25% |
-| Diversity | 77/100 | 20% |
+| Depth     | 77/100     | 25% |
+| Diversity | 78/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
 
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 62 repositories analysed_
 
 ---
 
-## Depth — ███████░░░ 74/100
+## Depth — ████████░░ 77/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -37,33 +37,33 @@ _Generated 2026-05-21 · 62 repositories analysed_
 |---|:---:|:---:|:---:|
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
-| [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
 | [`java_course`](https://github.com/kevinthelago/java_course) | ✗ | ✗ | ✓ |
-| [`rusty_glauxb`](https://github.com/kevinthelago/rusty_glauxb) | ✗ | ✗ | ✓ |
 | [`task-fox`](https://github.com/kevinthelago/task-fox) | ✗ | ✗ | ✓ |
 | [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | ✗ | ✓ | ✗ |
+| [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✓ | ✗ |
+| [`moon`](https://github.com/kevinthelago/moon) | ✓ | ✗ | ✗ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 4 more
+- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 4 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `java-guide` and 3 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ████████░░ 77/100
+## Diversity — ████████░░ 78/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 53 |
+| `languages` | 52 |
 | `frameworks` | 37 |
 | `databases` | 10 |
 | `devops` | 7 |
-| `ai` | 6 |
+| `ai` | 7 |
 | `cloud` | 3 |
 
 > Good spread across categories.
@@ -79,9 +79,9 @@ _Generated 2026-05-21 · 62 repositories analysed_
 | Last 30 days | 46 |
 | Last 90 days | 0 |
 | Last year    | 9 |
-| Over a year  | 7 |
+| Over a year  | 6 |
 
-**Stale repositories (7):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`biosim`](https://github.com/kevinthelago/biosim), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
+**Stale repositories (6):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`biosim`](https://github.com/kevinthelago/biosim), [`sentimental-penguin`](https://github.com/kevinthelago/sentimental-penguin)
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
