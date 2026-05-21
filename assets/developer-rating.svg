@@ -22,8 +22,8 @@
     <text x="780" y="67" fill="#c792ea" font-size="11" font-weight="bold" font-family="Arial, sans-serif">93</text>
     <text x="246" y="90" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DEPTH</text>
     <rect x="246" y="94" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="94" width="484" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
-    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">92</text>
+    <rect x="246" y="94" width="494" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
+    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">94</text>
     <text x="246" y="126" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DIVERSITY</text>
     <rect x="246" y="130" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
     <rect x="246" y="130" width="426" height="10" rx="5" fill="#89ddff" fill-opacity="0.85"/>
