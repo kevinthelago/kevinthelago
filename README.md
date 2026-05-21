@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in building full-stack applications, leveraging Java and Kotlin with Spring Boot for robust backend microservices and React/Vue.js with TypeScript for engaging frontends. Their diverse projects also span complex integrations with Salesforce and SharePoint, cloud deployments on AWS and Google Cloud, real-time embedded systems using C++ and Rust, and applications incorporating AI and data visualization.
+This developer actively builds robust backend systems and microservices, demonstrating proficiency in Java with Spring Boot/Cloud, Kotlin, and databases like MySQL and PostgreSQL. They also craft dynamic frontends using React and Vue.js, often integrating data visualization with D3.js. The portfolio reflects a wide range of interests, from embedded systems with Arduino and Rust to AI-guided educational platforms, game-related integrations, and cloud deployments with AWS and Google Cloud.
 <!-- summary-end -->
 
 <!-- rating-start -->
