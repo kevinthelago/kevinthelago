@@ -8,12 +8,12 @@
     <rect width="800" height="280" fill="url(#dr-bg)" rx="12"/>
     
     <text x="95" y="46" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="11" letter-spacing="3" font-family="Arial, sans-serif">DEVELOPER RATING</text>
-    <text x="95" y="118" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="Arial, sans-serif">54</text>
+    <text x="95" y="118" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="Arial, sans-serif">59</text>
     <text x="95" y="140" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="11" font-family="Arial, sans-serif">out of 100</text>
     <line x1="67" y1="168" x2="123" y2="168" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
     
-    <circle cx="95" cy="218" r="26" fill="#f39c12" fill-opacity="0.15" stroke="#f39c12" stroke-width="1.5"/>
-    <text x="95" y="218" text-anchor="middle" dominant-baseline="central" fill="#f39c12" font-size="26" font-weight="bold" font-family="Arial, sans-serif">C</text>
+    <circle cx="95" cy="218" r="26" fill="#5dade2" fill-opacity="0.15" stroke="#5dade2" stroke-width="1.5"/>
+    <text x="95" y="218" text-anchor="middle" dominant-baseline="central" fill="#5dade2" font-size="26" font-weight="bold" font-family="Arial, sans-serif">B</text>
     <line x1="218" y1="28" x2="218" y2="252" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
     
     <text x="246" y="54" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">BREADTH</text>
@@ -22,16 +22,16 @@
     <text x="780" y="67" fill="#c792ea" font-size="11" font-weight="bold" font-family="Arial, sans-serif">93</text>
     <text x="246" y="90" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DEPTH</text>
     <rect x="246" y="94" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="94" width="231" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
-    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">44</text>
+    <rect x="246" y="94" width="295" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
+    <text x="780" y="103" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">56</text>
     <text x="246" y="126" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">DIVERSITY</text>
     <rect x="246" y="130" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="130" width="295" height="10" rx="5" fill="#89ddff" fill-opacity="0.85"/>
-    <text x="780" y="139" fill="#89ddff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">56</text>
+    <rect x="246" y="130" width="337" height="10" rx="5" fill="#89ddff" fill-opacity="0.85"/>
+    <text x="780" y="139" fill="#89ddff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">64</text>
     <text x="246" y="162" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">ACTIVITY</text>
     <rect x="246" y="166" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
-    <rect x="246" y="166" width="268" height="10" rx="5" fill="#c3e88d" fill-opacity="0.85"/>
-    <text x="780" y="175" fill="#c3e88d" font-size="11" font-weight="bold" font-family="Arial, sans-serif">51</text>
+    <rect x="246" y="166" width="279" height="10" rx="5" fill="#c3e88d" fill-opacity="0.85"/>
+    <text x="780" y="175" fill="#c3e88d" font-size="11" font-weight="bold" font-family="Arial, sans-serif">53</text>
     <text x="246" y="198" fill="rgba(255,255,255,0.6)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">IMPACT</text>
     <rect x="246" y="202" width="526" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
     <rect x="246" y="202" width="110" height="10" rx="5" fill="#f78c6c" fill-opacity="0.85"/>
