@@ -1,14 +1,14 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 68 repositories analysed_
 
-## Overall Score: 59/100 — Tier B
+## Overall Score: 61/100 — Tier B
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
 | Depth     | 56/100     | 25% |
 | Diversity | 64/100 | 20% |
-| Activity  | 53/100  | 20% |
+| Activity  | 63/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -70,18 +70,18 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 ---
 
-## Activity — █████░░░░░ 53/100
+## Activity — ██████░░░░ 63/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 21 |
+| Last 30 days | 26 |
 | Last 90 days | 0 |
 | Last year    | 14 |
-| Over a year  | 33 |
+| Over a year  | 28 |
 
-**Stale repositories (33):** [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`wotos-config`](https://github.com/kevinthelago/wotos-config) and 25 more
+**Stale repositories (28):** [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`wotos-config`](https://github.com/kevinthelago/wotos-config) and 20 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
