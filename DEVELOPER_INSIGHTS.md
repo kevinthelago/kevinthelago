@@ -1,13 +1,13 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 58 repositories analysed_
 
-## Overall Score: 79/100 — Tier A
+## Overall Score: 80/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 85/100     | 25% |
-| Diversity | 82/100 | 20% |
+| Depth     | 87/100     | 25% |
+| Diversity | 81/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
 
@@ -25,41 +25,39 @@ _Generated 2026-05-21 · 58 repositories analysed_
 
 ---
 
-## Depth — █████████░ 85/100
+## Depth — █████████░ 87/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
 **Scoring per repo:** +40 for a description, +35 for at least one topic, +25 for meaningful file size.
 
-**Repositories that need attention (9 shown):**
+**Repositories that need attention (7 shown):**
 
 | Repository | Description | Topics | Size |
 |---|:---:|:---:|:---:|
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
-| [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✓ | ✗ |
-| [`foxotype`](https://github.com/kevinthelago/foxotype) | ✗ | ✓ | ✓ |
 | [`java-spring-softexpert-soap-integration`](https://github.com/kevinthelago/java-spring-softexpert-soap-integration) | ✗ | ✓ | ✓ |
 | [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing) | ✗ | ✓ | ✓ |
 | [`react-native-audio-api`](https://github.com/kevinthelago/react-native-audio-api) | ✓ | ✗ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `village-animal-hospital` and 3 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `react-native-audio-api`
+- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `village-animal-hospital`, `java-spring-softexpert-soap-integration` and 1 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `react-native-audio-api`
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ████████░░ 82/100
+## Diversity — ████████░░ 81/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 51 |
-| `frameworks` | 38 |
+| `languages` | 52 |
+| `frameworks` | 39 |
 | `databases` | 11 |
 | `devops` | 8 |
 | `ai` | 8 |
@@ -75,12 +73,12 @@ _Generated 2026-05-21 · 58 repositories analysed_
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 50 |
+| Last 30 days | 51 |
 | Last 90 days | 0 |
 | Last year    | 5 |
-| Over a year  | 3 |
+| Over a year  | 2 |
 
-**Stale repositories (3):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`biosim`](https://github.com/kevinthelago/biosim)
+**Stale repositories (2):** [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`biosim`](https://github.com/kevinthelago/biosim)
 
 **How to improve:**
 - Even small improvements (README updates, dependency bumps) count as activity
