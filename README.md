@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer is a proficient full-stack engineer, building scalable microservices with Java and Kotlin Spring Boot, alongside dynamic web and mobile UIs using React, Vue, and React Native. They also explore advanced domains such as AI/ML with LLMs and computer vision, embedded systems on Arduino and Raspberry Pi, and high-performance computing in C++ and Rust.
+This developer builds robust full-stack applications and microservices, primarily leveraging Java/Kotlin with Spring Boot for backends and modern JavaScript/TypeScript frameworks like React, React Native, and Vue for user interfaces. Their expertise spans AI/ML-driven platforms, embedded systems, real-time geospatial visualization, and cloud-native solutions, with practical experience in Docker, GitHub Actions, and various cloud platforms.
 <!-- summary-end -->
 
 <!-- rating-start -->
