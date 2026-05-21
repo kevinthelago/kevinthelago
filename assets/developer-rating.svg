@@ -32,7 +32,7 @@
     <rect width="800" height="280" fill="url(#dr-bg)" rx="12"/>
     
     <text x="95" y="46" text-anchor="middle" style="fill:var(--fg60)" font-size="11" letter-spacing="3" font-family="Arial, sans-serif">DEVELOPER RATING</text>
-    <text x="95" y="118" text-anchor="middle" style="fill:var(--fg)" font-size="52" font-weight="bold" font-family="Arial, sans-serif">72</text>
+    <text x="95" y="118" text-anchor="middle" style="fill:var(--fg)" font-size="52" font-weight="bold" font-family="Arial, sans-serif">73</text>
     <text x="95" y="140" text-anchor="middle" style="fill:var(--fg35)" font-size="11" font-family="Arial, sans-serif">out of 100</text>
     <line x1="67" y1="168" x2="123" y2="168" style="stroke:var(--fg08)" stroke-width="1"/>
     
@@ -62,6 +62,6 @@
     <text x="780" y="177" fill="#f78c6c" font-size="11" font-weight="bold" font-family="Arial, sans-serif">21</text>
     <text x="246" y="194" style="fill:var(--fg60)" font-size="10" font-family="Arial, sans-serif" letter-spacing="1">ENGINEERING</text>
     <rect x="246" y="198" width="526" height="10" rx="5" style="fill:var(--fg06)"/>
-    <rect x="246" y="198" width="53" height="10" rx="5" fill="#ffcb6b" fill-opacity="0.85"/>
-    <text x="780" y="207" fill="#ffcb6b" font-size="11" font-weight="bold" font-family="Arial, sans-serif">10</text>
+    <rect x="246" y="198" width="63" height="10" rx="5" fill="#ffcb6b" fill-opacity="0.85"/>
+    <text x="780" y="207" fill="#ffcb6b" font-size="11" font-weight="bold" font-family="Arial, sans-serif">12</text>
 </svg>
