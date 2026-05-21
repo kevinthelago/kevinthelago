@@ -1,12 +1,16 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer excels at building robust full-stack applications, leveraging Java and Kotlin with Spring Boot for scalable backends and modern JavaScript frameworks like React, React Native, and Vue for dynamic frontends. Their broad skillset includes architecting cloud-native microservices on AWS and Google Cloud, integrating AI/machine learning, and hands-on work with embedded systems like Arduino and Raspberry Pi for IoT projects.
+This developer is a proficient full-stack engineer, building scalable applications with Java and Kotlin (Spring Boot, microservices) for robust backends, and modern JavaScript/TypeScript frameworks (React, Vue, React Native) for dynamic user interfaces, often deployed via GitHub Actions to cloud platforms like AWS, Google Cloud, and Azure. Beyond web and mobile development, their work spans AI/ML projects featuring LLMs, computer vision, and neural networks, as well as embedded systems and IoT solutions with Arduino and Raspberry Pi.
 <!-- summary-end -->
 
 <!-- rating-start -->
 <img src="./assets/developer-rating.svg" width="100%" alt="Developer Rating" />
 <!-- rating-end -->
+
+<!-- monkeytype-start -->
+<img src="./assets/monkeytype.svg" width="100%" alt="Typing Speed" />
+<!-- monkeytype-end -->
 
 <!-- tech-charts-start -->
 <img src="./assets/tech-grid.svg" width="1200" height="840" alt="Tech Stack" />
