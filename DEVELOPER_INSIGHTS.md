@@ -1,14 +1,14 @@
 # Developer Score Insights
-_Generated 2026-05-21 · 66 repositories analysed_
+_Generated 2026-05-21 · 63 repositories analysed_
 
-## Overall Score: 70/100 — Tier A
+## Overall Score: 73/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 63/100     | 25% |
-| Diversity | 72/100 | 20% |
-| Activity  | 91/100  | 20% |
+| Depth     | 67/100     | 25% |
+| Diversity | 73/100 | 20% |
+| Activity  | 99/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 66 repositories analysed_
 
 ---
 
-## Depth — ██████░░░░ 63/100
+## Depth — ███████░░░ 67/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -38,50 +38,50 @@ _Generated 2026-05-21 · 66 repositories analysed_
 | [`biosim`](https://github.com/kevinthelago/biosim) | ✗ | ✗ | ✗ |
 | [`laife-coach-server`](https://github.com/kevinthelago/laife-coach-server) | ✗ | ✗ | ✗ |
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
-| [`shootingvictims`](https://github.com/kevinthelago/shootingvictims) | ✗ | ✗ | ✗ |
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
 | [`java-phone`](https://github.com/kevinthelago/java-phone) | ✗ | ✗ | ✓ |
-| [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp) | ✗ | ✗ | ✓ |
-| [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp) | ✗ | ✗ | ✓ |
+| [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension) | ✗ | ✗ | ✓ |
+| [`javascript-react-steam-achievements-twitch-extension-ui`](https://github.com/kevinthelago/javascript-react-steam-achievements-twitch-extension-ui) | ✗ | ✗ | ✓ |
+| [`javascript-react-twitch-scenes`](https://github.com/kevinthelago/javascript-react-twitch-scenes) | ✗ | ✗ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `shootingvictims`, `artist_portfolio_admin_ui` and 5 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `shootingvictims`, `artist_portfolio_admin_ui` and 5 more
+- Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `openclaw`, `artist_portfolio_admin_ui`, `java-course-guide` and 5 more
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ███████░░░ 72/100
+## Diversity — ███████░░░ 73/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
-| `languages` | 56 |
-| `frameworks` | 30 |
+| `languages` | 54 |
+| `frameworks` | 32 |
 | `databases` | 9 |
 | `devops` | 7 |
+| `cloud` | 3 |
 | `ai` | 3 |
-| `cloud` | 2 |
 
 > Good spread across categories.
 
 ---
 
-## Activity — █████████░ 91/100
+## Activity — ██████████ 99/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 39 |
+| Last 30 days | 41 |
 | Last 90 days | 0 |
-| Last year    | 11 |
-| Over a year  | 16 |
+| Last year    | 10 |
+| Over a year  | 12 |
 
-**Stale repositories (16):** [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`unity-spheres`](https://github.com/kevinthelago/unity-spheres), [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp), [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide) and 8 more
+**Stale repositories (12):** [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide), [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing), [`python-flask-led-controller`](https://github.com/kevinthelago/python-flask-led-controller), [`pokesight-nread`](https://github.com/kevinthelago/pokesight-nread), [`javascript-react-twitch-scenes`](https://github.com/kevinthelago/javascript-react-twitch-scenes) and 4 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
