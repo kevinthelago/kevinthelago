@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in crafting robust full-stack solutions, primarily leveraging Spring Boot with Java/Kotlin for backend services and React/Vue/React Native for dynamic frontends and mobile applications. They possess a strong background in AI/ML integration, including LLMs and computer vision, alongside expertise in microservices architectures, cloud deployment (AWS, Google Cloud), and embedded systems with Rust and Arduino. Their project portfolio demonstrates versatility across domains such as AI-powered educational platforms, real-time trading systems, and IoT applications.
+This developer focuses on full-stack application development, building robust microservice architectures with Java and Kotlin Spring Boot, and crafting engaging user interfaces using React, Vue, and React Native. Their expertise extends to integrating cutting-edge AI/LLM technologies, computer vision, and orchestrating complex cloud deployments. Additionally, they delve into embedded systems programming with Arduino and Raspberry Pi for IoT and hardware-interfacing projects.
 <!-- summary-end -->
 
 <!-- rating-start -->
