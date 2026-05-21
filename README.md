@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in full-stack development, crafting robust backend services with Java and Kotlin using Spring Boot for microservices and cloud deployments on AWS and Google Cloud. Their expertise extends to modern frontend applications built with React and Vue in JavaScript/TypeScript, alongside embedded systems programming for IoT devices using C++ and Rust. They also demonstrate experience with complex third-party integrations, AI-guided platforms, and developing engaging applications across diverse domains like gaming, education, and music.
+This developer is proficient in architecting full-stack solutions, primarily leveraging Java and Kotlin with Spring Boot/Cloud for scalable microservices, complemented by modern React and Vue.js frontends. Their expertise extends to embedded systems using C++ and Rust for hardware interaction, along with integrating AI/ML capabilities across diverse projects in gaming, education, and enterprise domains.
 <!-- summary-end -->
 
 <!-- rating-start -->
@@ -9,7 +9,7 @@ This developer specializes in full-stack development, crafting robust backend se
 <!-- rating-end -->
 
 <!-- tech-charts-start -->
-<img src="./assets/tech-grid.svg" width="800" height="280" alt="Tech Stack" />
+<img src="./assets/tech-grid.svg" width="1200" height="420" alt="Tech Stack" />
 <!-- tech-charts-end -->
 
 <!-- tech-start -->
