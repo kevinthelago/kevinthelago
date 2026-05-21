@@ -1,14 +1,14 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 66 repositories analysed_
 
-## Overall Score: 68/100 — Tier B
+## Overall Score: 70/100 — Tier A
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 61/100     | 25% |
-| Diversity | 69/100 | 20% |
-| Activity  | 88/100  | 20% |
+| Depth     | 63/100     | 25% |
+| Diversity | 72/100 | 20% |
+| Activity  | 91/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -25,7 +25,7 @@ _Generated 2026-05-21 · 66 repositories analysed_
 
 ---
 
-## Depth — ██████░░░░ 61/100
+## Depth — ██████░░░░ 63/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
@@ -40,11 +40,11 @@ _Generated 2026-05-21 · 66 repositories analysed_
 | [`openclaw`](https://github.com/kevinthelago/openclaw) | ✗ | ✗ | ✗ |
 | [`shootingvictims`](https://github.com/kevinthelago/shootingvictims) | ✗ | ✗ | ✗ |
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
-| [`celebritea`](https://github.com/kevinthelago/celebritea) | ✗ | ✗ | ✓ |
-| [`celebritea-mobile`](https://github.com/kevinthelago/celebritea-mobile) | ✗ | ✗ | ✓ |
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`java-guide`](https://github.com/kevinthelago/java-guide) | ✗ | ✗ | ✓ |
 | [`java-phone`](https://github.com/kevinthelago/java-phone) | ✗ | ✗ | ✓ |
+| [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp) | ✗ | ✗ | ✓ |
+| [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp) | ✗ | ✗ | ✓ |
 
 **How to improve:**
 - Add descriptions to: `biosim`, `laife-coach-server`, `openclaw`, `shootingvictims`, `artist_portfolio_admin_ui` and 5 more
@@ -53,32 +53,32 @@ _Generated 2026-05-21 · 66 repositories analysed_
 
 ---
 
-## Diversity — ███████░░░ 69/100
+## Diversity — ███████░░░ 72/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
 | Category | Repo count |
 |---|---|
 | `languages` | 56 |
-| `frameworks` | 28 |
-| `databases` | 8 |
+| `frameworks` | 30 |
+| `databases` | 9 |
 | `devops` | 7 |
-| `ai` | 2 |
-| `cloud` | 1 |
+| `ai` | 3 |
+| `cloud` | 2 |
 
 > Good spread across categories.
 
 ---
 
-## Activity — █████████░ 88/100
+## Activity — █████████░ 91/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 37 |
+| Last 30 days | 39 |
 | Last 90 days | 0 |
-| Last year    | 13 |
+| Last year    | 11 |
 | Over a year  | 16 |
 
 **Stale repositories (16):** [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`unity-spheres`](https://github.com/kevinthelago/unity-spheres), [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp), [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide) and 8 more
