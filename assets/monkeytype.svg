@@ -1,0 +1,32 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" role="img">
+    <defs>
+        <linearGradient id="mt-bg" x1="0" y1="0" x2="0.4" y2="1">
+            <stop offset="0%" stop-color="#0d1117"/>
+            <stop offset="100%" stop-color="#161b22"/>
+        </linearGradient>
+    </defs>
+    <rect width="800" height="280" fill="url(#mt-bg)" rx="12"/>
+    
+    <text x="95" y="46" text-anchor="middle" fill="rgba(255,255,255,0.6)" font-size="11" letter-spacing="3" font-family="Arial, sans-serif">TYPING SPEED</text>
+    <text x="95" y="118" text-anchor="middle" fill="white" font-size="52" font-weight="bold" font-family="Arial, sans-serif">133</text>
+    <text x="95" y="140" text-anchor="middle" fill="rgba(255,255,255,0.35)" font-size="11" font-family="Arial, sans-serif">words per minute</text>
+    <line x1="67" y1="168" x2="123" y2="168" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+    <text x="95" y="215" text-anchor="middle" fill="rgba(255,255,255,0.25)" font-size="10" letter-spacing="2" font-family="Arial, sans-serif">MONKEYTYPE</text>
+    <line x1="218" y1="28" x2="218" y2="252" stroke="rgba(255,255,255,0.08)" stroke-width="1"/>
+    
+    <text x="246" y="56" fill="rgba(255,255,255,0.6)" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">15S</text>
+    <rect x="246" y="60" width="474" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
+    <rect x="246" y="60" width="474" height="10" rx="5" fill="#c792ea" fill-opacity="0.85"/>
+    <text x="728" y="69" fill="#c792ea" font-size="11" font-weight="bold" font-family="Arial, sans-serif">133</text>
+    <text x="246" y="83" fill="rgba(255,255,255,0.3)" font-size="9" font-family="Arial, sans-serif">100.0% acc</text>
+    <text x="246" y="108" fill="rgba(255,255,255,0.6)" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">30S</text>
+    <rect x="246" y="112" width="474" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
+    <rect x="246" y="112" width="421" height="10" rx="5" fill="#82aaff" fill-opacity="0.85"/>
+    <text x="728" y="121" fill="#82aaff" font-size="11" font-weight="bold" font-family="Arial, sans-serif">118</text>
+    <text x="246" y="135" fill="rgba(255,255,255,0.3)" font-size="9" font-family="Arial, sans-serif">99.7% acc</text>
+    <text x="246" y="160" fill="rgba(255,255,255,0.6)" font-size="10" letter-spacing="1" font-family="Arial, sans-serif">60S</text>
+    <rect x="246" y="164" width="474" height="10" rx="5" fill="rgba(255,255,255,0.06)"/>
+    <rect x="246" y="164" width="381" height="10" rx="5" fill="#c3e88d" fill-opacity="0.85"/>
+    <text x="728" y="173" fill="#c3e88d" font-size="11" font-weight="bold" font-family="Arial, sans-serif">107</text>
+    <text x="246" y="187" fill="rgba(255,255,255,0.3)" font-size="9" font-family="Arial, sans-serif">98.7% acc</text>
+</svg>
