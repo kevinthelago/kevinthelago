@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer is a versatile full-stack engineer with expertise in building robust microservices using Java and Kotlin with Spring Boot, complemented by dynamic web and mobile interfaces developed with React, React Native, and Vue.js. Their projects showcase a strong engagement with AI and machine learning, particularly LLMs and computer vision with TensorFlow, alongside practical experience in embedded systems, real-time audio processing, and DevOps practices using Docker and GitHub Actions.
+This developer specializes in building full-stack applications and microservices using Java and Kotlin with Spring Boot, deploying to cloud platforms like AWS and Google Cloud. They craft interactive web and mobile user interfaces with React, React Native, and Vue. Their diverse work also spans AI-powered systems, embedded electronics with Arduino and Raspberry Pi, and performance-focused Rust projects for real-time applications.
 <!-- summary-end -->
 
 <!-- rating-start -->
