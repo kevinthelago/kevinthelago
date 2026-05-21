@@ -1,15 +1,16 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 57 repositories analysed_
 
-## Overall Score: 81/100 — Tier A
+## Overall Score: 72/100 — Tier A
 
-| Dimension | Score | Weight |
+| Dimension   | Score | Weight |
 |---|---|---|
-| Breadth   | 93/100   | 20% |
-| Depth     | 94/100     | 25% |
-| Diversity | 81/100 | 20% |
-| Activity  | 100/100  | 20% |
-| Impact    | 21/100    | 15% |
+| Breadth     | 93/100   | 17% |
+| Depth       | 94/100     | 22% |
+| Diversity   | 81/100 | 17% |
+| Activity    | 100/100  | 18% |
+| Impact      | 21/100    | 13% |
+| Engineering | 10/100 | 13% |
 
 ---
 
@@ -54,7 +55,7 @@ _Generated 2026-05-21 · 57 repositories analysed_
 | `databases` | 11 |
 | `devops` | 8 |
 | `ai` | 8 |
-| `cloud` | 6 |
+| `cloud` | 5 |
 
 > Good spread across categories.
 
@@ -82,20 +83,58 @@ _Generated 2026-05-21 · 57 repositories analysed_
 
 **What it measures:** Community reception via stars and forks (log-scaled).
 
-**Total:** 4 stars · 1 forks
+**Total:** 4 ★ · 1 forks across 57 repos
 
 **Top repositories by impact:**
 
 | Repository | Stars | Forks |
 |---|---|---|
-| [`artist_portfolio_ui`](https://github.com/kevinthelago/artist_portfolio_ui) | 1 | 1 |
-| [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | 2 | 0 |
-| [`python-time-complexity-graph-generator`](https://github.com/kevinthelago/python-time-complexity-graph-generator) | 1 | 0 |
-| [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | 0 | 0 |
-| [`artist_portfolio`](https://github.com/kevinthelago/artist_portfolio) | 0 | 0 |
+| [`artist_portfolio_ui`](https://github.com/kevinthelago/artist_portfolio_ui) | 1 ★ | 1 |
+| [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | 2 ★ | 0 |
+| [`python-time-complexity-graph-generator`](https://github.com/kevinthelago/python-time-complexity-graph-generator) | 1 ★ | 0 |
+| [`arduino-projects`](https://github.com/kevinthelago/arduino-projects) | 0 ★ | 0 |
+| [`artist_portfolio`](https://github.com/kevinthelago/artist_portfolio) | 0 ★ | 0 |
+
+**Zero-traction repos worth showcasing:** [`arduino-projects`](https://github.com/kevinthelago/arduino-projects), [`artist_portfolio`](https://github.com/kevinthelago/artist_portfolio), [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui), [`artventure-browser`](https://github.com/kevinthelago/artventure-browser)
+_These have no stars or forks yet. If any solve a real problem, they are candidates for promotion._
 
 **How to improve:**
-- Add a polished README with screenshots or demos to your most interesting repos
-- Pin your strongest repos on your profile so they're immediately visible
-- Share projects on relevant communities (dev.to, Hacker News, Reddit r/programming)
-- Consider open-sourcing private projects that others might find useful
+
+_README quality (biggest single lever):_
+- Add a one-line description and a screenshot or GIF at the top of each key repo
+- Include a **Quick Start** section — repos with copy-paste setup instructions get more stars
+- Add relevant GitHub topics so the repo appears in GitHub Explore searches
+- Enable **GitHub Pages** for frontend or documentation projects to provide a live demo link
+
+_Discoverability:_
+- Pin your top 6 repos on your profile page (GitHub → Edit profile → Customize pins)
+- Create a GitHub Release for stable projects — versioned releases signal project maturity
+- Make sure each repo has a license — repos without one are less likely to be forked
+
+_Community sharing:_
+- Write a short post about `artist_portfolio_ui` explaining the problem it solves and link to it
+- Share projects on relevant communities: Hacker News (Show HN), dev.to, and the subreddits for your stack
+- Ask peers or colleagues to star repos they find genuinely useful — early social proof compounds
+
+_Open source leverage:_
+- Contributing even small fixes (docs, bugs) to popular repos in your stack gets your name on high-traffic projects
+- If any private projects solve general problems, open-sourcing them is the fastest path to impact
+
+---
+
+## Engineering — █░░░░░░░░░ 10/100
+
+**What it measures:** CI adoption, deployment automation, issue management, and PR culture across your 15 most recently active non-fork repos.
+
+| Signal | Repos | Share | Weight |
+|---|---|---|---|
+| CI / check-runs     | 1         | 7%         | 40% |
+| Deployments         | 2 | 13% | 25% |
+| Closed issues       | 2      | 13%      | 20% |
+| Pull requests       | 1         | 7%         | 15% |
+
+**How to improve:**
+- Add CI workflows (GitHub Actions, CircleCI, etc.) — the highest-weighted signal at 40%
+- Add deployment automation via GitHub Deployments, Vercel, Heroku, or Fly.io
+- Add issue tracking — open and close issues to demonstrate active project management
+- Add pull requests — even solo projects benefit from PR-based review workflows
