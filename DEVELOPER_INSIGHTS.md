@@ -1,14 +1,14 @@
 # Developer Score Insights
 _Generated 2026-05-21 · 68 repositories analysed_
 
-## Overall Score: 62/100 — Tier B
+## Overall Score: 66/100 — Tier B
 
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
 | Depth     | 56/100     | 25% |
 | Diversity | 64/100 | 20% |
-| Activity  | 65/100  | 20% |
+| Activity  | 86/100  | 20% |
 | Impact    | 21/100    | 15% |
 
 ---
@@ -70,18 +70,18 @@ _Generated 2026-05-21 · 68 repositories analysed_
 
 ---
 
-## Activity — ███████░░░ 65/100
+## Activity — █████████░ 86/100
 
 **What it measures:** Recency and consistency of pushes across all repos.
 
 | Window | Repos |
 |---|---|
-| Last 30 days | 27 |
+| Last 30 days | 37 |
 | Last 90 days | 0 |
 | Last year    | 14 |
-| Over a year  | 27 |
+| Over a year  | 17 |
 
-**Stale repositories (27):** [`wotos-ui`](https://github.com/kevinthelago/wotos-ui), [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`wotos-user-service`](https://github.com/kevinthelago/wotos-user-service), [`wotos-config-server`](https://github.com/kevinthelago/wotos-config-server), [`wotos-eureka-server`](https://github.com/kevinthelago/wotos-eureka-server), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`wotos-config`](https://github.com/kevinthelago/wotos-config) and 19 more
+**Stale repositories (17):** [`react-native-calendar`](https://github.com/kevinthelago/react-native-calendar), [`java-course-guide`](https://github.com/kevinthelago/java-course-guide), [`java_course`](https://github.com/kevinthelago/java_course), [`unity-spheres`](https://github.com/kevinthelago/unity-spheres), [`java-spring-api-key-secured-webapp`](https://github.com/kevinthelago/java-spring-api-key-secured-webapp), [`java-spring-fedex-integration-webapp`](https://github.com/kevinthelago/java-spring-fedex-integration-webapp), [`java-spring-steam-achievements-twitch-extension`](https://github.com/kevinthelago/java-spring-steam-achievements-twitch-extension), [`java-guide`](https://github.com/kevinthelago/java-guide) and 9 more
 
 **How to improve:**
 - Consider archiving truly abandoned repos to improve the signal-to-noise ratio
