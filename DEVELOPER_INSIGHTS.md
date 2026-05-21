@@ -6,7 +6,7 @@ _Generated 2026-05-21 · 57 repositories analysed_
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 92/100     | 25% |
+| Depth     | 94/100     | 25% |
 | Diversity | 81/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
@@ -25,22 +25,19 @@ _Generated 2026-05-21 · 57 repositories analysed_
 
 ---
 
-## Depth — █████████░ 92/100
+## Depth — █████████░ 94/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
 **Scoring per repo:** +40 for a description, +35 for at least one topic, +25 for meaningful file size.
 
-**Repositories that need attention (3 shown):**
+**Repositories that need attention (1 shown):**
 
 | Repository | Description | Topics | Size |
 |---|:---:|:---:|:---:|
-| [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✓ | ✗ |
-| [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing) | ✗ | ✓ | ✓ |
 | [`react-native-audio-api`](https://github.com/kevinthelago/react-native-audio-api) | ✓ | ✗ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `village-animal-hospital`, `python-vanilla-audio-processing`
 - Add GitHub topics to: `react-native-audio-api`
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
