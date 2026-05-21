@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer demonstrates strong full-stack capabilities, building robust backend microservices and integrations using Java and Kotlin with Spring Boot, complemented by dynamic web and mobile frontends in JavaScript, TypeScript, React, and Vue. They also engage with embedded systems, developing IoT solutions with C++ and Rust for hardware like Arduino and Raspberry Pi, while exploring fields such as generative AI, gamification, and music education.
+This developer specializes in crafting full-stack solutions, utilizing Java and Kotlin with Spring Boot for scalable backend services, microservices, and enterprise integrations, alongside modern frontends built with React and Vue. Their projects span diverse domains from embedded systems with C++ and Rust to AI-guided educational platforms, leveraging cloud technologies like AWS and Google Cloud.
 <!-- summary-end -->
 
 <!-- rating-start -->
@@ -9,7 +9,7 @@ This developer demonstrates strong full-stack capabilities, building robust back
 <!-- rating-end -->
 
 <!-- tech-charts-start -->
-<img src="./assets/tech-grid.svg" width="800" height="420" alt="Tech Stack" />
+<img src="./assets/tech-grid.svg" width="800" height="840" alt="Tech Stack" />
 <!-- tech-charts-end -->
 
 <!-- tech-start -->
