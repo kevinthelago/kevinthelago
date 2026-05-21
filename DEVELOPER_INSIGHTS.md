@@ -6,8 +6,8 @@ _Generated 2026-05-21 · 58 repositories analysed_
 | Dimension | Score | Weight |
 |---|---|---|
 | Breadth   | 93/100   | 20% |
-| Depth     | 84/100     | 25% |
-| Diversity | 81/100 | 20% |
+| Depth     | 85/100     | 25% |
+| Diversity | 82/100 | 20% |
 | Activity  | 100/100  | 20% |
 | Impact    | 21/100    | 15% |
 
@@ -25,13 +25,13 @@ _Generated 2026-05-21 · 58 repositories analysed_
 
 ---
 
-## Depth — ████████░░ 84/100
+## Depth — █████████░ 85/100
 
 **What it measures:** How well-documented and tagged individual repositories are.
 
 **Scoring per repo:** +40 for a description, +35 for at least one topic, +25 for meaningful file size.
 
-**Repositories that need attention (10 shown):**
+**Repositories that need attention (9 shown):**
 
 | Repository | Description | Topics | Size |
 |---|:---:|:---:|:---:|
@@ -40,20 +40,19 @@ _Generated 2026-05-21 · 58 repositories analysed_
 | [`artist_portfolio_admin_ui`](https://github.com/kevinthelago/artist_portfolio_admin_ui) | ✗ | ✗ | ✓ |
 | [`java-course-guide`](https://github.com/kevinthelago/java-course-guide) | ✗ | ✗ | ✓ |
 | [`village-animal-hospital`](https://github.com/kevinthelago/village-animal-hospital) | ✗ | ✓ | ✗ |
-| [`dotdotdash`](https://github.com/kevinthelago/dotdotdash) | ✗ | ✓ | ✓ |
 | [`foxotype`](https://github.com/kevinthelago/foxotype) | ✗ | ✓ | ✓ |
 | [`java-spring-softexpert-soap-integration`](https://github.com/kevinthelago/java-spring-softexpert-soap-integration) | ✗ | ✓ | ✓ |
 | [`python-vanilla-audio-processing`](https://github.com/kevinthelago/python-vanilla-audio-processing) | ✗ | ✓ | ✓ |
-| [`skill-tree`](https://github.com/kevinthelago/skill-tree) | ✗ | ✓ | ✓ |
+| [`react-native-audio-api`](https://github.com/kevinthelago/react-native-audio-api) | ✓ | ✗ | ✓ |
 
 **How to improve:**
-- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `village-animal-hospital` and 5 more
-- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`
+- Add descriptions to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `village-animal-hospital` and 3 more
+- Add GitHub topics to: `biosim`, `laife-coach-server`, `artist_portfolio_admin_ui`, `java-course-guide`, `react-native-audio-api`
 - A good description is 1–2 sentences explaining what the repo does and the tech used
 
 ---
 
-## Diversity — ████████░░ 81/100
+## Diversity — ████████░░ 82/100
 
 **What it measures:** How evenly projects are spread across different domains (Shannon entropy across categories).
 
@@ -64,7 +63,7 @@ _Generated 2026-05-21 · 58 repositories analysed_
 | `databases` | 11 |
 | `devops` | 8 |
 | `ai` | 8 |
-| `cloud` | 5 |
+| `cloud` | 6 |
 
 > Good spread across categories.
 
