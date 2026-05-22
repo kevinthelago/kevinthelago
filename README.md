@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer is a proficient full-stack engineer, specializing in building scalable backend systems with Java and Kotlin using Spring Boot and microservices, alongside crafting engaging web and mobile UIs with React, Vue, and React Native. They exhibit a strong focus on AI/ML, integrating LLMs and computer vision with Python and TensorFlow, and possess hands-on experience in embedded systems development and DevOps practices.
+This developer focuses on full-stack application development, leveraging Spring Boot with Kotlin and Java for resilient backend systems, complemented by React, Vue, and React Native for modern web and mobile frontends. Their expertise also spans AI/ML, including LLM-driven applications, computer vision, and biological simulations. Additionally, they explore embedded systems with Rust and C++, demonstrating a broad skill set in various domains.
 <!-- summary-end -->
 
 <!-- rating-start -->
