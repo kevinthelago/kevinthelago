@@ -1,8 +1,12 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer crafts robust full-stack applications, leveraging Java and Kotlin with Spring Boot for scalable backends, alongside React, Vue, and TypeScript for dynamic user interfaces. Their diverse expertise spans AI/ML, from building intelligent agents and computer vision solutions to integrating large language models, alongside developing mobile apps with React Native, embedded systems like Arduino, and complex cloud-native microservice architectures.
+This developer crafts full-stack applications and microservices primarily with Java, Kotlin, Spring Boot, React, and Vue, often deploying to cloud environments and integrating with various databases and APIs. Their expertise extends to developing AI/ML-driven solutions, from LLM-powered agents and art tutoring platforms to computer vision and biological simulations. Additionally, they explore embedded systems, mobile applications with React Native, and real-time hardware control using Arduino and Raspberry Pi.
 <!-- summary-end -->
+
+<!-- summary-tile-start -->
+<img src="./assets/account-summary.svg" width="100%" alt="Account Summary" />
+<!-- summary-tile-end -->
 
 <!-- rating-start -->
 <a href="https://github.com/kevinthelago/kevinthelago/blob/main/DEVELOPER_INSIGHTS.md"><img src="./assets/developer-rating.svg" width="100%" alt="Developer Rating" /></a>
