@@ -1,7 +1,7 @@
 # Welcome!
 
 <!-- summary-start -->
-This developer specializes in crafting full-stack applications, leveraging Kotlin/Java with Spring Boot for robust backends and React/Vue/TypeScript for dynamic web and mobile interfaces. Their work spans AI/LLM-powered solutions, distributed microservices, embedded systems with Arduino and Rust, and integrating with cloud platforms like Google Cloud and AWS.
+This developer crafts robust full-stack applications, leveraging Java and Kotlin with Spring Boot for scalable backends, alongside React, Vue, and TypeScript for dynamic user interfaces. Their diverse expertise spans AI/ML, from building intelligent agents and computer vision solutions to integrating large language models, alongside developing mobile apps with React Native, embedded systems like Arduino, and complex cloud-native microservice architectures.
 <!-- summary-end -->
 
 <!-- rating-start -->
